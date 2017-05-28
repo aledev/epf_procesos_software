@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wntMNbxebPBELGHwtAkjSg" name=",_cBvR8EPBEee96dpm-B80Tw" guid="-wntMNbxebPBELGHwtAkjSg" changeDate="2017-05-28T13:21:40.815-0400">
+  <mainDescription>En esta tarea se identifican los usuarios participantes y finales, interlocutores tanto en la obtención de requisitos como&#xD;
+en la validación de los distintos productos y la aceptación final del sistema. Para ello, se actualiza el catálogo de&#xD;
+usuarios generado previamente en el Estudio de Viabilidad del Sistema (EVS). Dada la importancia que la colaboración de los&#xD;
+usuarios tiene en el proceso de obtención de los requisitos, es conveniente determinar quiénes van a participar en las&#xD;
+sesiones de trabajo, especificando sus funciones y asignando responsabilidades. Así mismo, se informa del plan de trabajo a&#xD;
+los usuarios identificados.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-tMKWA_IhPJG6wrxxj5H0xA" name=",_PMijUEPQEee96dpm-B80Tw" guid="-tMKWA_IhPJG6wrxxj5H0xA" changeDate="2017-05-28T15:06:43.461-0400">
+  <mainDescription>En esta tarea se comienzan a identificar los objetos necesarios para realizar el caso de uso, basándose en la&#xD;
+especificación que tenemos del mismo.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

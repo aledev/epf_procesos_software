@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hHKJ4AXsUf2XaG0l8JcX_Q" name=",_XFOD4EPdEee96dpm-B80Tw" guid="-hHKJ4AXsUf2XaG0l8JcX_Q" changeDate="2017-05-28T16:39:57.882-0400">
+  <mainDescription>&lt;p>&#xD;
+    El objetivo de esta tarea es asegurar que los modelos son coherentes entre sí, comprobando la falta de ambigüedades o&#xD;
+    duplicación de información.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

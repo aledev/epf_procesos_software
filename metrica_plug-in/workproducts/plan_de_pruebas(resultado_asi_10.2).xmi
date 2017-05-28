@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-C1P6bSJfMQPGOXxW8v8AfA" name="plan_de_pruebas(resultado_asi_10.2),_EfLHEEPjEee96dpm-B80Tw" guid="-C1P6bSJfMQPGOXxW8v8AfA" changeDate="2017-05-28T17:15:06.761-0400">
+  <mainDescription>Definición de Requisitos del Entorno de Pruebas</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

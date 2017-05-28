@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-zSPe8wTiVCMKGbOk6j2O9Q" name="AnalisisSistemaInformacion,_1k02MUO3Eee96dpm-B80Tw" guid="-zSPe8wTiVCMKGbOk6j2O9Q">
+    <mainDescription>El objetivo de este proceso es la obtención de una especificación detallada del sistema de información que satisfaga las&#xD;
+necesidades de información de los usuarios y sirva de base para el posterior diseño del sistema.</mainDescription>
+  </org.eclipse.epf.uma:DeliveryProcessDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-eMwr_cz9IZtNg7V4Li6KTw" name="(as1)definicion_sistema,_D9dvsUO4Eee96dpm-B80Tw" guid="-eMwr_cz9IZtNg7V4Li6KTw">
+    <mainDescription>Esta actividad tiene como objetivo efectuar una descripción del sistema, delimitando su alcance, estableciendo las&#xD;
+interfaces con otros sistemas e identificando a los usuarios representativos. Las tareas de esta actividad se pueden haber&#xD;
+desarrollado ya en parte en el proceso de Estudio de Viabilidad del Sistema (EVS), de modo que se parte de los productos&#xD;
+obtenidos en dicho proceso para proceder a su adecuación como punto de partida para definir el sistema de información.</mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-XrBiolnp8zuWjxE91orztQ" name="(asi_1.1)determinacion_del_alcance_del_sistema,__xfdgEPCEee96dpm-B80Tw" guid="-XrBiolnp8zuWjxE91orztQ">
+    <refinedDescription>En esta tarea se delimita el sistema de información, utilizando como punto de partida el modelo de procesos especificado en&#xD;
+la descripción de la solución del proceso Estudio de Viabilidad del Sistema (EVS). Se indica qué procesos pertenecen al&#xD;
+ámbito del Sistema de Información y se identifican las entidades externas al sistema que aportan o reciben información.&#xD;
+Asimismo, se obtiene un modelo conceptual de datos identificando las entidades y relaciones que forman parte del sistema de&#xD;
+información objeto de este análisis a partir del modelo abstracto de datos generado en la tarea Evaluación de Alternativas&#xD;
+y Selección (EVS 6.2).</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-XNULo8LX1ALOoHiTQzniow" name="solucion_propuesta,__xfdh0PCEee96dpm-B80Tw" guid="-XNULo8LX1ALOoHiTQzniow">
+    <refinedDescription>&lt;p>&#xD;
+    Descripción de la Solución ·&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp; Modelo de Descomposición en Subsistemas ·&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Matriz Procesos / Localización Geográfica ·&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Matriz Datos / Localización Geográfica ·&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Entorno Tecnológico y Comunicaciones ·&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Estrategia de Implantación Global del Sistema ·&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Descripción de Procesos Manuales&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Si la alternativa incluye desarrollo: ·&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Modelo Abstracto de Datos / Modelo de Procesos ·&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Modelo de Negocio / Modelo de Dominio&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Si la alternativa incluye un producto software estándar de mercado: ·&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Descripción del Producto ·&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Evolución del Producto ·&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Costes Ocasionados por Producto ·&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Estándares del Producto ·&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Descripción de Adaptación (si es necesaria)&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    o Contexto del Sistema (con la Definición de las Interfaces en Función de la Solución)&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    o Impacto en la Organización de la Solución&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    o Coste / Beneficio de la Solución&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    o Valoración de Riesgos de la Solución&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    o Enfoque del Plan de Trabajo de la Solución&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    o Planificación de la Solución&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-IR7EHMSkiCHnbvexomwOcw" name="(asi_1.4)identificacion_de_los_usuarios_participantes_y_finales,_AV2u0EPDEee96dpm-B80Tw" guid="-IR7EHMSkiCHnbvexomwOcw">
+    <refinedDescription>En esta tarea se identifican los usuarios participantes y finales, interlocutores tanto en la obtención de requisitos como&#xD;
+en la validación de los distintos productos y la aceptación final del sistema. Para ello, se actualiza el catálogo de&#xD;
+usuarios generado previamente en el Estudio de Viabilidad del Sistema (EVS). Dada la importancia que la colaboración de los&#xD;
+usuarios tiene en el proceso de obtención de los requisitos, es conveniente determinar quiénes van a participar en las&#xD;
+sesiones de trabajo, especificando sus funciones y asignando responsabilidades. Así mismo, se informa del plan de trabajo a&#xD;
+los usuarios identificados.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-KgHo-8czutwfCHtpj1zuSg" name="(as2)establecimiento_de_requisitos,_UvxPQUO4Eee96dpm-B80Tw" guid="-KgHo-8czutwfCHtpj1zuSg">
+    <mainDescription>En esta actividad se lleva a cabo la definición, análisis y validación de los requisitos a partir de la información&#xD;
+facilitada por el usuario, completándose el catálogo de requisitos obtenido en la actividad Definición del Sistema (ASI 1).&#xD;
+El objetivo de esta actividad es obtener un catálogo detallado de los requisitos, a partir del cual se pueda comprobar que&#xD;
+los productos generados en las actividades de modelización se ajustan a los requisitos de usuario.</mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-aI8eLK-CcCfDfhHm9fQoqw" name="(asi_2.1)obtencion_de_requisitos,_vP8nsEPLEee96dpm-B80Tw" guid="-aI8eLK-CcCfDfhHm9fQoqw">
+    <refinedDescription>En esta tarea comienza la obtención detallada de información mediante sesiones de trabajo con los usuarios, previamente&#xD;
+identificados en la actividad Definición del Sistema (ASI 1).</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-UZdnn62HbPrMGRkh_86heQ" name="catalogo_de_requisitos,_vP8ntUPLEee96dpm-B80Tw" guid="-UZdnn62HbPrMGRkh_86heQ">
+    <refinedDescription>&lt;p>&#xD;
+    Para el desarrollo del producto es necesario cumplir con lo siguiente:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Requisitos Relativos a Restricciones o Dependencias con Otros Proyecto.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-U2u8lCfEULMsFiA2Xax-1Q" name="(asi_2.2)especificacin_de_caso_de_uso,_wNVdAEPLEee96dpm-B80Tw" guid="-U2u8lCfEULMsFiA2Xax-1Q">
+    <refinedDescription>El objetivo de esta tarea es especificar cada caso de uso identificado en la tarea anterior, desarrollando el escenario.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-dQZ4HLd_4rC8SLeh4Wrqlw" name="(asi_2.3)analisis_de_requisitos,__kqMUEPLEee96dpm-B80Tw" guid="-dQZ4HLd_4rC8SLeh4Wrqlw">
+    <refinedDescription>En esta tarea se estudia la información capturada previamente en esta actividad, para detectar inconsistencias,&#xD;
+ambigüedades, duplicidad o escasez de información, etc. También se analizan las prioridades establecidas por el usuario y&#xD;
+se asocian los requisitos relacionados entre sí. El análisis de los requisitos y de los casos de uso asociados permite&#xD;
+identificar funcionalidades o comportamientos comunes, reestructurando la información de los casos de uso a través de las&#xD;
+generalizaciones y relaciones entre ellos.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-h4T53vwMg1cWSLBHD5-fBQ" name="(asi_2.4)validacion_de_requisitos,_AIR2wEPMEee96dpm-B80Tw" guid="-h4T53vwMg1cWSLBHD5-fBQ">
+    <refinedDescription>Mediante esta tarea, los usuarios confirman que los requisitos especificados en el catálogo de requisitos, así como los&#xD;
+casos de uso, son válidos, consistentes y completos.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-gTI8lUx94o7IyxC_07BLsA" name="(as3)identificación_de_subsistemas_de_análisis,_h3LKYUO4Eee96dpm-B80Tw" guid="-gTI8lUx94o7IyxC_07BLsA">
+    <mainDescription>El objetivo de esta actividad, común tanto para análisis estructurado como para análisis orientado a objetos, es facilitar&#xD;
+el análisis del sistema de información llevando a cabo la descomposición del sistema en subsistemas. Se realiza en paralelo&#xD;
+con el resto de las actividades de generación de modelos del análisis. Por tanto, se asume la necesidad de una&#xD;
+realimentación y ajuste continuo con respecto a la definición de los subsistemas, sus dependencias y sus interfaces.</mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-70Y5zCD2gn-rE8Y29Y53QQ" name="(asi_3.1)determinacion_de_subsistemas_de_analisis,_rQwjYEPNEee96dpm-B80Tw" guid="-70Y5zCD2gn-rE8Y29Y53QQ">
+    <refinedDescription>&lt;p>&#xD;
+    La descomposición del sistema en subsistemas debe estar, principalmente, orientada a los procesos de negocio, aunque&#xD;
+    también es posible adoptar otros criterios lógicos. Entre los criterios que pueden ayudar a su identificación, se&#xD;
+    encuentran los siguientes:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    -Homogeneidad de procesos.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    -Servicios comunes.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Prioridad.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Afinidad de requisitos.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Localización geográfica&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-SBQT9yXgTmGI3hOXHzRFHQ" name="(as4)analisis_de_casos_de_uso,_tfSdAUO4Eee96dpm-B80Tw" guid="-SBQT9yXgTmGI3hOXHzRFHQ">
+    <mainDescription>El objetivo de esta actividad, que sólo se realiza en el caso de Análisis Orientado a Objetos, es identificar las clases&#xD;
+cuyos objetos son necesarios para realizar un caso de uso y describir su comportamiento mediante la interacción dichos&#xD;
+objetos. Esta actividad se lleva a cabo para cada uno de los casos de uso contenidos en un subsistema de los definidos en&#xD;
+la actividad Identificación de Subsistemas de Análisis (ASI 3). Las tareas de esta actividad no se realizan de forma&#xD;
+secuencial sino en paralelo, con continuas realimentaciones entre ellas y con las realizadas en las actividades&#xD;
+Establecimiento de Requisitos (ASI 2), Identificación de Subsistemas de Análisis (ASI 3), Análisis de Clases (ASI 5) y&#xD;
+Definición de Interfaces de Usuario (ASI 8).</mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-E3So_gh3_QzBDPJiU1sJ_g" name="(asi_4.1)dentificacion_de_clases_asociadas_a_un_caso_de_uso,_8JOYgEPREee96dpm-B80Tw" guid="-E3So_gh3_QzBDPJiU1sJ_g">
+    <refinedDescription>En esta tarea se comienzan a identificar los objetos necesarios para realizar el caso de uso, basándose en la&#xD;
+especificación que tenemos del mismo.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-XkUdcRBBlJheveoppIDFTg" name="(asi_4.2)descripcion_de_la_interaccion_de_objetos,_8uVQsEPREee96dpm-B80Tw" guid="-XkUdcRBBlJheveoppIDFTg">
+    <refinedDescription>El objetivo de esta tarea es describir la cooperación entre los objetos utilizados para la realización de un caso de uso,&#xD;
+que ya fueron identificados en la tarea anterior.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-ijWZUd_Or_L_PqekuwemHQ" name="(as5)analisis_de_clases,_19WOcUO4Eee96dpm-B80Tw" guid="-ijWZUd_Or_L_PqekuwemHQ">
+    <mainDescription>El objetivo de esta actividad que sólo se realiza en el caso de Análisis Orientado a Objetos es describir cada una de las&#xD;
+clases que ha surgido, identificando las responsabilidades que tienen asociadas, sus atributos, y las relaciones entre&#xD;
+ellas. Para esto, se debe tener en cuenta la normativa establecida en la tarea Especificación de Estándares y Normas (ASI&#xD;
+1.3), de forma que el modelo de clases cumpla estos criterios, con el fin de evitar posibles inconsistencias en el diseño.</mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-4vSp8CWwpk3xR5H-DhqbgA" name="(asi_3.2)integracion_de_subsistemas_de_analisis,_4GiUQEPTEee96dpm-B80Tw" guid="-4vSp8CWwpk3xR5H-DhqbgA">
+    <refinedDescription>El objetivo de esta tarea es la coordinación en la elaboración de los distintos modelos de análisis de cada subsistema,&#xD;
+asegurando la ausencia de duplicidad de elementos y la precisión en la utilización de los términos del glosario. Esta tarea&#xD;
+se realiza en paralelo con el resto de las actividades de elaboración de modelos del análisis, y permite tener una visión&#xD;
+global y unificada de los distintos modelos. Como consecuencia de la coordinación de modelos, se pueden identificar&#xD;
+elementos comunes con posible implicación en la propia definición de subsistemas y en sus dependencias o interfaces.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-dyCAauWkQ-TYhuzl_sGJbA" name="(asi_5.2)identificacion_de_asociaciones_y_agregaciones,_i-mbwEPUEee96dpm-B80Tw" guid="-dyCAauWkQ-TYhuzl_sGJbA">
+    <refinedDescription>Identificación de Asociaciones y Agregaciones</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-HJvqumnyvGBAH98HLZNsaA" name="(asi_5.3)identificacion_de_generalizaciones,_PBYC4EPVEee96dpm-B80Tw" guid="-HJvqumnyvGBAH98HLZNsaA">
+    <refinedDescription>El objetivo de esta tarea es representar una organización de las clases que permita una implementación sencilla de la&#xD;
+herencia y una agrupación semántica de las diferentes clases, basándose siempre en las normas y estándares definidos en la&#xD;
+actividad Definición del Sistema (ASI 1).</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-CwFcQplVeIES5NCih5wGCQ" name="(as8)definicion_de_interfaces_de_usuarios,__pAbcUO4Eee96dpm-B80Tw" guid="-CwFcQplVeIES5NCih5wGCQ">
+    <mainDescription>En esta actividad se especifican las interfaces entre el sistema y el usuario: formatos de pantallas, diálogos, e informes,&#xD;
+principalmente. El objetivo es realizar un análisis de los procesos del sistema de información en los que se requiere una&#xD;
+interacción del usuario, con el fin de crear una interfaz que satisfaga todos los requisitos establecidos, teniendo en&#xD;
+cuenta los diferentes perfiles a quiénes va dirigido.</mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-BMbiMesywEcDekScuDGseg" name="(asi_8.1)especificacion_de_principios_generales_de_la_interfaz,_-bxQoEPWEee96dpm-B80Tw" guid="-BMbiMesywEcDekScuDGseg">
+    <refinedDescription>El objetivo de esta tarea es especificar los estándares, directrices y elementos generales a tener en cuenta en la&#xD;
+definición de la interfaz de usuario, tanto para la interfaz interactiva (gráfica o carácter), como para los informes y&#xD;
+formularios impresos.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-NEt0BbSXLZBk7L9bRcOvMw" name="especificacion_de_interfaz_de_usuarios(generado_asi_8.1),_-bxQp0PWEee96dpm-B80Tw" guid="-NEt0BbSXLZBk7L9bRcOvMw">
+    <refinedDescription>En este producto se indicara todo lo necesario para la realización de las interfaces de usuario.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-HJKNvE12uEgiiTV9qIJkQg" name="(as9)analisis_de_concistencia,_PMTxQUO5Eee96dpm-B80Tw" guid="-HJKNvE12uEgiiTV9qIJkQg">
+    <mainDescription>&lt;p>&#xD;
+    El objetivo de esta actividad es garantizar la calidad de los distintos modelos generados en el proceso de Análisis del&#xD;
+    Sistema de Información, y asegurar que los usuarios y los Analistas tienen el mismo concepto del sistema. Para cumplir&#xD;
+    dicho objetivo, se llevan a cabo las siguientes acciones:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Verificación de la calidad técnica de cada modelo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;- Aseguramiento de la coherencia entre los distintos modelos.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Validación del cumplimiento de los requisitos.&#xD;
+&lt;/p></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-S8PPzru8QWt5YsTmUPJ9dg" name="(asi_9.1)verificacion_de_los_modelos,_WgPHgEPdEee96dpm-B80Tw" guid="-S8PPzru8QWt5YsTmUPJ9dg">
+    <refinedDescription>El objetivo de esta tarea es asegurar la calidad formal de los distintos modelos, conforme a la técnica seguida para la&#xD;
+elaboración de cada producto y a las normas determinadas en el Catálogo de Normas.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-VnrbYfccFaSOOywIYjJT-g" name="(asi_9.2)analisis_de_consistencia_entre_modelos,_Ln-5oEPfEee96dpm-B80Tw" guid="-VnrbYfccFaSOOywIYjJT-g">
+    <refinedDescription>&lt;p>&#xD;
+    El objetivo de esta tarea es asegurar que los modelos son coherentes entre sí, comprobando la falta de ambigüedades o&#xD;
+    duplicación de información.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-8F8yT3Y_dVW1Ge2GGIB0oA" name="(asi_9.4)elaboracion_de_la_especificacion_de_requisitos_software(ers),_m2eOwEPgEee96dpm-B80Tw" guid="-8F8yT3Y_dVW1Ge2GGIB0oA">
+    <refinedDescription>En esta tarea se aborda la elaboración de la Especificación de Requisitos Software (ERS), una vez validados los modelos en&#xD;
+la tarea anterior.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-M9nSJvvettqQQwUCTZiQSg" name="(as10)especificacion_del_plan_de_pruebas,_a_3e4UO5Eee96dpm-B80Tw" guid="-M9nSJvvettqQQwUCTZiQSg">
+    <mainDescription>En esta actividad se inicia la definición del plan de pruebas, el cual sirve como guía para la realización de las pruebas,&#xD;
+y permite verificar que el sistema de información cumple las necesidades establecidas por el usuario, con las debidas&#xD;
+garantías de calidad.</mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="--VCTyn7hyK4PGkbGQUA79g" name="(asi_10.2)definicion_de_requisitos_del_entorno_de_pruebas,_oGPQsUPkEee96dpm-B80Tw" guid="--VCTyn7hyK4PGkbGQUA79g">
+    <refinedDescription>El objetivo de esta tarea es la definición o recopilación de los requisitos relativos al entorno de pruebas, completando el&#xD;
+plan de pruebas.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-2XcyQc-63VuNhYUaGM9KRQ" name="plan_de_pruebas(resultado_asi_10.1),_oGPQyUPkEee96dpm-B80Tw" guid="-2XcyQc-63VuNhYUaGM9KRQ">
+    <refinedDescription>Especificación de los Niveles de Pruebas</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-UTgxIMt1VET7VYTi-78K7w" name="plan_de_pruebas(resultado_asi_10.2),_oGPQzUPkEee96dpm-B80Tw" guid="-UTgxIMt1VET7VYTi-78K7w">
+    <refinedDescription>Definición de Requisitos del Entorno de Pruebas</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-zwVQAvWNtshzNnOi-PFX_A" name="(asi_11.1)presentacion_y_aprobacion_del_analisis_del_sistema_de_informacion,_hKxd8EPlEee96dpm-B80Tw" guid="-zwVQAvWNtshzNnOi-PFX_A">
+    <refinedDescription>En esta tarea se realiza la presentación del análisis del sistema de información al Comité de Dirección, para la aprobación&#xD;
+final del mismo.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+</xmi:XMI>

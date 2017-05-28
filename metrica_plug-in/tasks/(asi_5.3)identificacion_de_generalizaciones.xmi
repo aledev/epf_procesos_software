@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-R9BZQErixbXlo5jQ2MPU-g" name=",_uAnXsEPUEee96dpm-B80Tw" guid="-R9BZQErixbXlo5jQ2MPU-g" changeDate="2017-05-28T15:38:43.770-0400">
+  <mainDescription>El objetivo de esta tarea es representar una organización de las clases que permita una implementación sencilla de la&#xD;
+herencia y una agrupación semántica de las diferentes clases, basándose siempre en las normas y estándares definidos en la&#xD;
+actividad Definición del Sistema (ASI 1).</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

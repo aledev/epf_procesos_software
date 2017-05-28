@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-4-fkMtNL_ACe_VnbsNAUmg" name=",_07JwoEPDEee96dpm-B80Tw" guid="-4-fkMtNL_ACe_VnbsNAUmg" changeDate="2017-05-28T13:37:55.295-0400">
+  <mainDescription>En esta tarea comienza la obtención detallada de información mediante sesiones de trabajo con los usuarios, previamente&#xD;
+identificados en la actividad Definición del Sistema (ASI 1).</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

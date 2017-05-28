@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-cyXJp7nLRMcxOa-xViz8Eg" name=",_gPtGMEPMEee96dpm-B80Tw" guid="-cyXJp7nLRMcxOa-xViz8Eg" changeDate="2017-05-28T14:39:37.259-0400">
+  <mainDescription>&lt;p>&#xD;
+    La descomposición del sistema en subsistemas debe estar, principalmente, orientada a los procesos de negocio, aunque&#xD;
+    también es posible adoptar otros criterios lógicos. Entre los criterios que pueden ayudar a su identificación, se&#xD;
+    encuentran los siguientes:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    -Homogeneidad de procesos.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    -Servicios comunes.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Prioridad.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Afinidad de requisitos.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Localización geográfica&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7ovPvk3pZI_5jYOpO6rQjA" name=",_lqX78EPIEee96dpm-B80Tw" guid="-7ovPvk3pZI_5jYOpO6rQjA" changeDate="2017-05-28T14:17:49.845-0400">
+  <mainDescription>En esta tarea se estudia la información capturada previamente en esta actividad, para detectar inconsistencias,&#xD;
+ambigüedades, duplicidad o escasez de información, etc. También se analizan las prioridades establecidas por el usuario y&#xD;
+se asocian los requisitos relacionados entre sí. El análisis de los requisitos y de los casos de uso asociados permite&#xD;
+identificar funcionalidades o comportamientos comunes, reestructurando la información de los casos de uso a través de las&#xD;
+generalizaciones y relaciones entre ellos.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fCT-GNhUOypgNcFqY--eOg" name=",_vLnPYEPNEee96dpm-B80Tw" guid="-fCT-GNhUOypgNcFqY--eOg" changeDate="2017-05-28T14:49:11.175-0400">
+  <mainDescription>El objetivo de esta tarea es la coordinación en la elaboración de los distintos modelos de análisis de cada subsistema,&#xD;
+asegurando la ausencia de duplicidad de elementos y la precisión en la utilización de los términos del glosario. Esta tarea&#xD;
+se realiza en paralelo con el resto de las actividades de elaboración de modelos del análisis, y permite tener una visión&#xD;
+global y unificada de los distintos modelos. Como consecuencia de la coordinación de modelos, se pueden identificar&#xD;
+elementos comunes con posible implicación en la propia definición de subsistemas y en sus dependencias o interfaces.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

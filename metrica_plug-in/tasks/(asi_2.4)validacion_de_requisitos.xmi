@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-bD0_wcDs-d0jWCJBcKvySw" name=",_ue-6QEPKEee96dpm-B80Tw" guid="-bD0_wcDs-d0jWCJBcKvySw" changeDate="2017-05-28T14:27:01.267-0400">
+  <mainDescription>Mediante esta tarea, los usuarios confirman que los requisitos especificados en el catálogo de requisitos, así como los&#xD;
+casos de uso, son válidos, consistentes y completos.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-pGklF9t445kICqfsr75Ymg" name="as_1.1determinacin_del_alcance_del_sistema,_y16moEO8Eee96dpm-B80Tw" guid="-pGklF9t445kICqfsr75Ymg" changeDate="2017-05-28T12:46:33.282-0400">
+  <mainDescription>En esta tarea se delimita el sistema de información, utilizando como punto de partida el modelo de procesos especificado en&#xD;
+la descripción de la solución del proceso Estudio de Viabilidad del Sistema (EVS). Se indica qué procesos pertenecen al&#xD;
+ámbito del Sistema de Información y se identifican las entidades externas al sistema que aportan o reciben información.&#xD;
+Asimismo, se obtiene un modelo conceptual de datos identificando las entidades y relaciones que forman parte del sistema de&#xD;
+información objeto de este análisis a partir del modelo abstracto de datos generado en la tarea Evaluación de Alternativas&#xD;
+y Selección (EVS 6.2).</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

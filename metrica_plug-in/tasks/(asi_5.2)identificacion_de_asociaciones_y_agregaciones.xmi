@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-5pONvSyGX3Jganu_AFDnGQ" name="(asi_5.2)identificacion_de_asociaciones_y_agregaciones,_ZLPgwEPTEee96dpm-B80Tw" guid="-5pONvSyGX3Jganu_AFDnGQ" changeDate="2017-05-28T15:28:17.962-0400">
+  <mainDescription>Identificación de Asociaciones y Agregaciones</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>
