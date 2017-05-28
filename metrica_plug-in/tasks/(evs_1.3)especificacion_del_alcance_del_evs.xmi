@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-cie34s28po24OUVjGOv-Fw" name=",_WIIRUDmcEeeKy-mHAzdEhw" guid="-cie34s28po24OUVjGOv-Fw" changeDate="2017-05-21T23:15:08.740-0400">
+  <mainDescription>&lt;p>&#xD;
+    En función del alcance del sistema y los objetivos del Estudio de Viabilidad del Sistema, se determinan las actividades&#xD;
+    y tareas a realizar. En particular, hay que decidir si se realiza o no el estudio de la situación actual y, en el caso&#xD;
+    de considerarlo necesario, con qué objetivo. Si el sistema pertenece al ámbito de un Plan de Sistemas de Información,&#xD;
+    los criterios que pueden orientar sobre la necesidad de llevar a cabo el estudio de la situación actual dependen de la&#xD;
+    arquitectura de información propuesta, en cuanto a la identificación de los sistemas de información actuales,&#xD;
+    implicados en el ámbito de este estudio, que se haya decidido conservar. Se identifican los usuarios participantes de&#xD;
+    las distintas unidades organizativas afectadas para la realización del Estudio de Viabilidad del Sistema, determinando&#xD;
+    previamente sus perfiles y responsabilidades. Debe comunicarse el plan de trabajo a los usuarios identificados como&#xD;
+    implicados en el Estudio de Viabilidad, solicitando su aceptación y esperado su confirmación.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>
