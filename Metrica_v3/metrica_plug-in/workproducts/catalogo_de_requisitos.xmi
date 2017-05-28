@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WkLbtaMQxd1YftMTfPbstA" name="catalogo_de_requisitos,_Xv0ksDmYEeeKy-mHAzdEhw" guid="-WkLbtaMQxd1YftMTfPbstA" changeDate="2017-05-21T23:18:04.116-0400">
-  <mainDescription>&lt;p>&#xD;
-    Para el desarrollo del producto es necesario cumplir con lo siguiente:&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    Requisitos Relativos a Restricciones o Dependencias con Otros Proyecto.&#xD;
-&lt;/p></mainDescription>
-</org.eclipse.epf.uma:ArtifactDescription>
