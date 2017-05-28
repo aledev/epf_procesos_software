@@ -494,6 +494,27 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_WOXawEPlEee96dpm-B80Tw" name="comite_de_seguimiento" guid="_WOXawEPlEee96dpm-B80Tw" presentationName="Comité de Seguimiento">
             <methodElementProperty xmi:id="_YlCXMEPlEee96dpm-B80Tw" name="me_edited" value="true"/>
           </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_E_m80EPyEee_m-0TbRhTaw" name="equipo_de_seguridad" guid="_E_m80EPyEee_m-0TbRhTaw" presentationName="Equipo de Seguridad">
+            <methodElementProperty xmi:id="_KUqV8EPyEee_m-0TbRhTaw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_LTsxEEPyEee_m-0TbRhTaw" name="equipo_del_proyecto" guid="_LTsxEEPyEee_m-0TbRhTaw" presentationName="Equipo del Proyecto">
+            <methodElementProperty xmi:id="_N0QpUEPyEee_m-0TbRhTaw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_QODLMEPyEee_m-0TbRhTaw" name="administradores_de_bases_de_datos" guid="_QODLMEPyEee_m-0TbRhTaw" presentationName="Administradores de Bases de Datos">
+            <methodElementProperty xmi:id="_QwETIEPyEee_m-0TbRhTaw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_SYPx4EPyEee_m-0TbRhTaw" name="responsable_de_operacin" guid="_SYPx4EPyEee_m-0TbRhTaw" presentationName="Responsable de Operación">
+            <methodElementProperty xmi:id="_S49SQEPyEee_m-0TbRhTaw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Ui32YEPyEee_m-0TbRhTaw" name="responsable_de_sistemas" guid="_Ui32YEPyEee_m-0TbRhTaw" presentationName="Responsable de Sistemas">
+            <methodElementProperty xmi:id="_VB4toEPyEee_m-0TbRhTaw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_XMT90EPyEee_m-0TbRhTaw" name="equipo_de_sistemas" guid="_XMT90EPyEee_m-0TbRhTaw" presentationName="Equipo de Sistemas">
+            <methodElementProperty xmi:id="_XsItYEPyEee_m-0TbRhTaw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_awHbwEPyEee_m-0TbRhTaw" name="diseadores_de_arquitectura" guid="_awHbwEPyEee_m-0TbRhTaw" presentationName="Diseñadores de Arquitectura">
+            <methodElementProperty xmi:id="_bQ7p0EPyEee_m-0TbRhTaw" name="me_edited" value="true"/>
+          </contentElements>
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_f-7WLTmCEeedyIH_DzGmJA" name="CapabilityPatterns" guid="_f-7WLTmCEeedyIH_DzGmJA"/>
