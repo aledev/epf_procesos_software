@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_gL9skDmCEeedyIH_DzGmJA" guid="_gL9skDmCEeedyIH_DzGmJA">
+    <subManagers xmi:id="_r5qp0DmCEeedyIH_DzGmJA" href="uma://_rmtRkDmCEeedyIH_DzGmJA#_r5qp0DmCEeedyIH_DzGmJA"/>
+    <resourceDescriptors xmi:id="_r3xMYDmCEeedyIH_DzGmJA" id="_rmtRkDmCEeedyIH_DzGmJA" uri="deliveryprocesses/EstudioViabilidadSistema/model.xmi"/>
+    <resourceDescriptors xmi:id="_zTvzwDmYEeeKy-mHAzdEhw" id="-DIfIH4A6pyFe51pNAYK-CQ" uri="tasks/(evs_1.1)estudio_de_la_solicitud.xmi"/>
+    <resourceDescriptors xmi:id="_rSc6ADmcEeeKy-mHAzdEhw" id="-cie34s28po24OUVjGOv-Fw" uri="tasks/(evs_1.3)especificacion_del_alcance_del_evs.xmi"/>
+    <resourceDescriptors xmi:id="_Q_Ma8T21EeeoZ68lBwYatQ" id="--oynnC6Sf7Il4Wglg16xQg" uri="tasks/(evs_2.1)valoracion_del_estudio_de_la_situacion_actual.xmi"/>
+    <resourceDescriptors xmi:id="_ahcAoT6OEeeoZ68lBwYatQ" id="-H1tS3z2w8FQiYvnQIAz4mQ" uri="workproducts/alternativas_de_solucion_a_estudiar.xmi"/>
+    <resourceDescriptors xmi:id="_KtxeID6PEeeoZ68lBwYatQ" id="-hT4XnhBgRiAvV_QBlAMu1A" uri="workproducts/plan_trabajo_cada_alternativa.xmi"/>
+    <resourceDescriptors xmi:id="_Ht1s0D6QEeeoZ68lBwYatQ" id="-JYibfApxdTRV-h7K6qNmJA" uri="tasks/(evs_6.1)evaluacion_de_las_alternativas_y_seleccion.xmi"/>
+    <resourceDescriptors xmi:id="_l_nMwT6REeeoZ68lBwYatQ" id="-GcQyrcUcK-fkBIkZe-CgGg" uri="workproducts/solucion_propuesta.xmi"/>
+    <resourceDescriptors xmi:id="_cE4zkT6SEeeoZ68lBwYatQ" id="-Z_QAPtHAru3L6k_VhJY_qQ" uri="tasks/(evs_6.2)aprobacion_de_la_solucion.xmi"/>
+    <resourceDescriptors xmi:id="_cT8RUD6UEeeoZ68lBwYatQ" id="-PItchBdyh0_bsjgGEWnwQw" uri="tasks/(evs_1.2)identificacion_del_alcance_del_sistema.xmi"/>
+    <resourceDescriptors xmi:id="_twtqMD6UEeeoZ68lBwYatQ" id="-0laKAFt-hmqqgH-LX-_btw" uri="workproducts/descripcion_general_del_sistema.xmi"/>
+    <resourceDescriptors xmi:id="_4vqrED6UEeeoZ68lBwYatQ" id="-WkLbtaMQxd1YftMTfPbstA" uri="workproducts/catalogo_de_requisitos.xmi"/>
+    <resourceDescriptors xmi:id="_KKj0oD6VEeeoZ68lBwYatQ" id="-n2iL6q4KpcjZ77YHSTBXwQ" uri="workproducts/catalogo_de_objetivos_del_evs(EVS_1.1).xmi"/>
+    <resourceDescriptors xmi:id="_aZRNAD6XEeeoZ68lBwYatQ" id="-0zV_iTvRRRixbRo1jm-V0g" uri="workproducts/descripcion_de_la_situacion_actual.xmi"/>
+    <resourceDescriptors xmi:id="_lnjDUD6XEeeoZ68lBwYatQ" id="-_hWhgTh8neqMeeFjyI_V1A" uri="tasks/(evs_2.2)descripcion_de_los_sistemas_de_informacion_existentes.xmi"/>
+    <resourceDescriptors xmi:id="_JKILAD6YEeeoZ68lBwYatQ" id="-SKC2DCxdkouejaYfo1EQzg" uri="tasks/(evs_2.3)realizacion_del_diagnostico_de_la_situacion_actual.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_f-7WIDmCEeedyIH_DzGmJA" name="metrica_plug-in" guid="_f-7WIDmCEeedyIH_DzGmJA">
+    <methodElementProperty xmi:id="_gOCJIDmCEeedyIH_DzGmJA" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_f-7WITmCEeedyIH_DzGmJA" name="Content" guid="_f-7WITmCEeedyIH_DzGmJA">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_f-7WIjmCEeedyIH_DzGmJA" name="Categories" guid="_f-7WIjmCEeedyIH_DzGmJA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_f-7WIzmCEeedyIH_DzGmJA" name="Domains" guid="_f-7WIzmCEeedyIH_DzGmJA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_f-7WJDmCEeedyIH_DzGmJA" name="Disciplines" guid="_f-7WJDmCEeedyIH_DzGmJA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_f-7WJTmCEeedyIH_DzGmJA" name="RoleSets" guid="_f-7WJTmCEeedyIH_DzGmJA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_f-7WJjmCEeedyIH_DzGmJA" name="WP Types" guid="_f-7WJjmCEeedyIH_DzGmJA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_f-7WJzmCEeedyIH_DzGmJA" name="Tools" guid="_f-7WJzmCEeedyIH_DzGmJA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_f-7WKDmCEeedyIH_DzGmJA" name="StandardCategories" guid="_f-7WKDmCEeedyIH_DzGmJA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_f-7WKTmCEeedyIH_DzGmJA" name="CustomCategories" guid="_f-7WKTmCEeedyIH_DzGmJA">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_f-7WKjmCEeedyIH_DzGmJA" name="Hidden" guid="_f-7WKjmCEeedyIH_DzGmJA">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_f-7WKzmCEeedyIH_DzGmJA" name="Custom Categories" guid="_f-7WKzmCEeedyIH_DzGmJA"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_f-7WLDmCEeedyIH_DzGmJA" name="CoreContent" guid="_f-7WLDmCEeedyIH_DzGmJA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gstukDmVEeeKy-mHAzdEhw" name="contexto_general_metricav3" guid="_gstukDmVEeeKy-mHAzdEhw">
+          <methodElementProperty xmi:id="_gsu8sDmVEeeKy-mHAzdEhw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_j9IWcDmVEeeKy-mHAzdEhw" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_lS0XADmVEeeKy-mHAzdEhw" name="comite_de_direccion" guid="_lS0XADmVEeeKy-mHAzdEhw" presentationName="Comité de Dirección">
+            <methodElementProperty xmi:id="_rO7wIDmVEeeKy-mHAzdEhw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_r-LbwDmVEeeKy-mHAzdEhw" name="jefe_de_proyecto" guid="_r-LbwDmVEeeKy-mHAzdEhw" presentationName="Jefe de Proyecto">
+            <methodElementProperty xmi:id="_uQdncDmVEeeKy-mHAzdEhw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_vZGDcDmVEeeKy-mHAzdEhw" name="analista" guid="_vZGDcDmVEeeKy-mHAzdEhw" presentationName="Analista">
+            <methodElementProperty xmi:id="_xw62cDmVEeeKy-mHAzdEhw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_DjecoDmXEeeKy-mHAzdEhw" name="catalogo_de_requisitos_del_psi(psi_9.2)" guid="_DjecoDmXEeeKy-mHAzdEhw" presentationName="Catálogo de Requisitos del PSI (PSI 9.2)">
+            <methodElementProperty xmi:id="_KYyHkDmXEeeKy-mHAzdEhw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_WqnsoDmXEeeKy-mHAzdEhw" name="solicitud_externo(externo)" guid="_WqnsoDmXEeeKy-mHAzdEhw" presentationName="Solicitud (externo)">
+            <methodElementProperty xmi:id="_9V_KMDmXEeeKy-mHAzdEhw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_EIn7oDmYEeeKy-mHAzdEhw" name="descripcion_general_del_sistema" guid="_EIn7oDmYEeeKy-mHAzdEhw" presentationName="Descripción General del Sistema">
+            <methodElementProperty xmi:id="_GOYHMDmYEeeKy-mHAzdEhw" name="me_edited" value="true"/>
+            <presentation xmi:id="-0laKAFt-hmqqgH-LX-_btw" href="uma://-0laKAFt-hmqqgH-LX-_btw#-0laKAFt-hmqqgH-LX-_btw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_MJpy0DmYEeeKy-mHAzdEhw" name="catalogo_de_objetivos_del_evs(EVS_1.1)" guid="_MJpy0DmYEeeKy-mHAzdEhw" presentationName="Catálogo de Objetivos del EVS(EVS_1.1)">
+            <methodElementProperty xmi:id="_OMHZ0DmYEeeKy-mHAzdEhw" name="me_edited" value="true"/>
+            <presentation xmi:id="-n2iL6q4KpcjZ77YHSTBXwQ" href="uma://-n2iL6q4KpcjZ77YHSTBXwQ#-n2iL6q4KpcjZ77YHSTBXwQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Xv0ksDmYEeeKy-mHAzdEhw" name="catalogo_de_requisitos" guid="_Xv0ksDmYEeeKy-mHAzdEhw" presentationName="Catálogo de Requisitos">
+            <methodElementProperty xmi:id="_ZfwRQDmYEeeKy-mHAzdEhw" name="me_edited" value="true"/>
+            <presentation xmi:id="-WkLbtaMQxd1YftMTfPbstA" href="uma://-WkLbtaMQxd1YftMTfPbstA#-WkLbtaMQxd1YftMTfPbstA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_mUdS0DmYEeeKy-mHAzdEhw" name="(evs_1.1)estudio_de_la_solicitud" guid="_mUdS0DmYEeeKy-mHAzdEhw" presentationName="(EVS 1.1) Estudio de la Solicitud" performedBy="_lS0XADmVEeeKy-mHAzdEhw" mandatoryInput="_DjecoDmXEeeKy-mHAzdEhw" output="_EIn7oDmYEeeKy-mHAzdEhw _MJpy0DmYEeeKy-mHAzdEhw _Xv0ksDmYEeeKy-mHAzdEhw" additionallyPerformedBy="_vZGDcDmVEeeKy-mHAzdEhw _r-LbwDmVEeeKy-mHAzdEhw" optionalInput="_WqnsoDmXEeeKy-mHAzdEhw _wwXmIDmaEeeKy-mHAzdEhw">
+            <methodElementProperty xmi:id="_u1pQwDmYEeeKy-mHAzdEhw" name="me_edited" value="true"/>
+            <presentation xmi:id="-DIfIH4A6pyFe51pNAYK-CQ" href="uma://-DIfIH4A6pyFe51pNAYK-CQ#-DIfIH4A6pyFe51pNAYK-CQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ZUJzUDmaEeeKy-mHAzdEhw" name="(evs_1.2)identificacion_del_alcance_del_sistema" guid="_ZUJzUDmaEeeKy-mHAzdEhw" presentationName="(EVS 1.2)Identificación del Alcance del Sistema" performedBy="_lS0XADmVEeeKy-mHAzdEhw" mandatoryInput="_nFDXYDmaEeeKy-mHAzdEhw" output="_EIn7oDmYEeeKy-mHAzdEhw _Xv0ksDmYEeeKy-mHAzdEhw _mpJCADmbEeeKy-mHAzdEhw" additionallyPerformedBy="_r-LbwDmVEeeKy-mHAzdEhw _vZGDcDmVEeeKy-mHAzdEhw" optionalInput="_wwXmIDmaEeeKy-mHAzdEhw _EIn7oDmYEeeKy-mHAzdEhw _MJpy0DmYEeeKy-mHAzdEhw _Xv0ksDmYEeeKy-mHAzdEhw">
+            <methodElementProperty xmi:id="_cX3b8DmaEeeKy-mHAzdEhw" name="me_edited" value="true"/>
+            <presentation xmi:id="-PItchBdyh0_bsjgGEWnwQw" href="uma://-PItchBdyh0_bsjgGEWnwQw#-PItchBdyh0_bsjgGEWnwQw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_nFDXYDmaEeeKy-mHAzdEhw" name="plan_de_proyectos(psi_9.2)" guid="_nFDXYDmaEeeKy-mHAzdEhw" presentationName="Plan de Proyectos(PSI 9.2)">
+            <methodElementProperty xmi:id="_rrD5MDmaEeeKy-mHAzdEhw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_wwXmIDmaEeeKy-mHAzdEhw" name="arquitectura_de_informacion(psi_9.2)" guid="_wwXmIDmaEeeKy-mHAzdEhw" presentationName="Arquitectura de Información (PSI 9.2)">
+            <methodElementProperty xmi:id="_zr_pwDmaEeeKy-mHAzdEhw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_mpJCADmbEeeKy-mHAzdEhw" name="catalogo_de_usuarios(EVS_1.2)" guid="_mpJCADmbEeeKy-mHAzdEhw" presentationName="Catálogo de Usuarios(EVS_1.2)">
+            <methodElementProperty xmi:id="_oHgdcDmbEeeKy-mHAzdEhw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_WIIRUDmcEeeKy-mHAzdEhw" name="(evs_1.3)especificacion_del_alcance_del_evs" guid="_WIIRUDmcEeeKy-mHAzdEhw" presentationName="(EVS 1.3)Especificación del Alcance del EVS" performedBy="_lS0XADmVEeeKy-mHAzdEhw" mandatoryInput="_wwXmIDmaEeeKy-mHAzdEhw" output="_MJpy0DmYEeeKy-mHAzdEhw _5tZj0DmgEeeKy-mHAzdEhw _F-tkcDmhEeeKy-mHAzdEhw" additionallyPerformedBy="_r-LbwDmVEeeKy-mHAzdEhw _vZGDcDmVEeeKy-mHAzdEhw" optionalInput="_MJpy0DmYEeeKy-mHAzdEhw _jxDBQDmgEeeKy-mHAzdEhw _mpJCADmbEeeKy-mHAzdEhw">
+            <methodElementProperty xmi:id="_ZVb60DmcEeeKy-mHAzdEhw" name="me_edited" value="true"/>
+            <presentation xmi:id="-cie34s28po24OUVjGOv-Fw" href="uma://-cie34s28po24OUVjGOv-Fw#-cie34s28po24OUVjGOv-Fw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_jxDBQDmgEeeKy-mHAzdEhw" name="descripcion_general_del_sistema(evs_1.2)" guid="_jxDBQDmgEeeKy-mHAzdEhw" presentationName="Descripción General del Sistema (EVS 1.2)">
+            <methodElementProperty xmi:id="_npujADmgEeeKy-mHAzdEhw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_5tZj0DmgEeeKy-mHAzdEhw" name="catalogos_de_usuarios" guid="_5tZj0DmgEeeKy-mHAzdEhw" presentationName="Catalogos de Usuarios">
+            <methodElementProperty xmi:id="_DdAcsDmhEeeKy-mHAzdEhw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_F-tkcDmhEeeKy-mHAzdEhw" name="plan_de_trabajo" guid="_F-tkcDmhEeeKy-mHAzdEhw" presentationName="Plan de Trabajo">
+            <methodElementProperty xmi:id="_IKhUsDmhEeeKy-mHAzdEhw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_uvyU0DmiEeeKy-mHAzdEhw" name="equipo_de_soporte_tecnico" guid="_uvyU0DmiEeeKy-mHAzdEhw" presentationName="Equipo de Soporte Técnico">
+            <methodElementProperty xmi:id="_v8KBUDmiEeeKy-mHAzdEhw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_zGvuADmiEeeKy-mHAzdEhw" name="especialistas_en_comunicaciones" guid="_zGvuADmiEeeKy-mHAzdEhw" presentationName="Especialistas en Comunicaciones">
+            <methodElementProperty xmi:id="_0MB7EDmiEeeKy-mHAzdEhw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_23liYDmiEeeKy-mHAzdEhw" name="responsable_de_mantenimiento" guid="_23liYDmiEeeKy-mHAzdEhw" presentationName="Responsable de Mantenimiento">
+            <methodElementProperty xmi:id="_3vvSYDmiEeeKy-mHAzdEhw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_5kX4wDmiEeeKy-mHAzdEhw" name="responsables_de_seguridad" guid="_5kX4wDmiEeeKy-mHAzdEhw" presentationName="Responsables de Seguridad">
+            <methodElementProperty xmi:id="_6g5ycDmiEeeKy-mHAzdEhw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_7_fQUDmiEeeKy-mHAzdEhw" name="tecnicos_de_sistemas" guid="_7_fQUDmiEeeKy-mHAzdEhw" presentationName="Técnicos de sistemas">
+            <methodElementProperty xmi:id="_9XovADmiEeeKy-mHAzdEhw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_-0RsIDmiEeeKy-mHAzdEhw" name="usuarios_expertos" guid="_-0RsIDmiEeeKy-mHAzdEhw" presentationName="Usuarios expertos">
+            <methodElementProperty xmi:id="__qVKYDmiEeeKy-mHAzdEhw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_f5YfID2xEeeoZ68lBwYatQ" name="directores_de_usuarios" guid="_f5YfID2xEeeoZ68lBwYatQ" presentationName="Directores de Usuarios">
+            <methodElementProperty xmi:id="_igdPED2xEeeoZ68lBwYatQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_w3wr0D2xEeeoZ68lBwYatQ" name="(evs_2.1)valoracion_del_estudio_de_la_situacion_actual" guid="_w3wr0D2xEeeoZ68lBwYatQ" presentationName="(evs_2.1)Valoración del Estudio de la Situación Actual" performedBy="_r-LbwDmVEeeKy-mHAzdEhw" mandatoryInput="_hC_WED2yEeeoZ68lBwYatQ" output="_Wc-kMD2zEeeoZ68lBwYatQ _5tZj0DmgEeeKy-mHAzdEhw" additionallyPerformedBy="_vZGDcDmVEeeKy-mHAzdEhw _f5YfID2xEeeoZ68lBwYatQ" optionalInput="_wwXmIDmaEeeKy-mHAzdEhw _C-LpMD2zEeeoZ68lBwYatQ _jxDBQDmgEeeKy-mHAzdEhw">
+            <methodElementProperty xmi:id="_9i0pMD2xEeeoZ68lBwYatQ" name="me_edited" value="true"/>
+            <presentation xmi:id="--oynnC6Sf7Il4Wglg16xQg" href="uma://--oynnC6Sf7Il4Wglg16xQg#--oynnC6Sf7Il4Wglg16xQg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_hC_WED2yEeeoZ68lBwYatQ" name="informacion_existente_del_sistema_actual(externo)" guid="_hC_WED2yEeeoZ68lBwYatQ" presentationName="Información Existente del Sistema Actual (externo)">
+            <methodElementProperty xmi:id="_nmZ_wD2yEeeoZ68lBwYatQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_C-LpMD2zEeeoZ68lBwYatQ" name="catalogo_de_objetivos_del_evs(evs_1.3)" guid="_C-LpMD2zEeeoZ68lBwYatQ" presentationName="Catálogo de Objetivos del EVS (EVS1.3) ">
+            <methodElementProperty xmi:id="_Jv50oD2zEeeoZ68lBwYatQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Wc-kMD2zEeeoZ68lBwYatQ" name="descripcion_de_la_situacion_actual" guid="_Wc-kMD2zEeeoZ68lBwYatQ" presentationName="Descripción de la Situación Actual">
+            <methodElementProperty xmi:id="_bwMxUD2zEeeoZ68lBwYatQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-0zV_iTvRRRixbRo1jm-V0g" href="uma://-0zV_iTvRRRixbRo1jm-V0g#-0zV_iTvRRRixbRo1jm-V0g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_C2BZcD24EeeoZ68lBwYatQ" name="(evs_2.2)descripcion_de_los_sistemas_de_informacion_existentes" guid="_C2BZcD24EeeoZ68lBwYatQ" presentationName="(evs_2.2)Descripción de los Sistemas de Información Existentes" performedBy="_vZGDcDmVEeeKy-mHAzdEhw" mandatoryInput="_Wc-kMD2zEeeoZ68lBwYatQ" output="_Wc-kMD2zEeeoZ68lBwYatQ" additionallyPerformedBy="_-0RsIDmiEeeKy-mHAzdEhw _uvyU0DmiEeeKy-mHAzdEhw" optionalInput="_5tZj0DmgEeeKy-mHAzdEhw">
+            <methodElementProperty xmi:id="_SwggMD24EeeoZ68lBwYatQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-_hWhgTh8neqMeeFjyI_V1A" href="uma://-_hWhgTh8neqMeeFjyI_V1A#-_hWhgTh8neqMeeFjyI_V1A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_q5s4UD25EeeoZ68lBwYatQ" name="(evs_2.3)realizacion_del_diagnostico_de_la_situacion_actual" guid="_q5s4UD25EeeoZ68lBwYatQ" presentationName="(evs_2.3)Realización del Diagnóstico de la Situación Actual" performedBy="_vZGDcDmVEeeKy-mHAzdEhw" mandatoryInput="_Wc-kMD2zEeeoZ68lBwYatQ" output="_Wc-kMD2zEeeoZ68lBwYatQ" additionallyPerformedBy="_23liYDmiEeeKy-mHAzdEhw" optionalInput="_C-LpMD2zEeeoZ68lBwYatQ _yyTW0D26EeeoZ68lBwYatQ">
+            <methodElementProperty xmi:id="_wguLMD25EeeoZ68lBwYatQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-SKC2DCxdkouejaYfo1EQzg" href="uma://-SKC2DCxdkouejaYfo1EQzg#-SKC2DCxdkouejaYfo1EQzg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_yyTW0D26EeeoZ68lBwYatQ" name="valoracion_de_la_situacion_actual(psi_5.3)" guid="_yyTW0D26EeeoZ68lBwYatQ" presentationName="Valoración de la Situación actual (PSI 5.3)">
+            <methodElementProperty xmi:id="_6PT68D26EeeoZ68lBwYatQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_HvnzUD6BEeeoZ68lBwYatQ" name="(evs_3.1)identificacion_de_requisitos" guid="_HvnzUD6BEeeoZ68lBwYatQ" presentationName="(evs_3.1)Identificación de Requisitos" performedBy="_r-LbwDmVEeeKy-mHAzdEhw" mandatoryInput="_hrb1ED6BEeeoZ68lBwYatQ" output="_6acsgD6BEeeoZ68lBwYatQ _CJeYQD6DEeeoZ68lBwYatQ" additionallyPerformedBy="_vZGDcDmVEeeKy-mHAzdEhw _-0RsIDmiEeeKy-mHAzdEhw" optionalInput="_jxDBQDmgEeeKy-mHAzdEhw _Xv0ksDmYEeeKy-mHAzdEhw _1SPAED6CEeeoZ68lBwYatQ _5tZj0DmgEeeKy-mHAzdEhw _Wc-kMD2zEeeoZ68lBwYatQ">
+            <methodElementProperty xmi:id="_NzHm0D6BEeeoZ68lBwYatQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_hrb1ED6BEeeoZ68lBwYatQ" name="catalogo_de_normas_del_psi(psi_3.2)" guid="_hrb1ED6BEeeoZ68lBwYatQ" presentationName="Catálogo de Normas del PSI (PSI 3.2)">
+            <methodElementProperty xmi:id="_uJeDED6BEeeoZ68lBwYatQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_xtmRID6BEeeoZ68lBwYatQ" name="recopilacion_de_directrices_tecnicas_y_de_gestion(externo)" guid="_xtmRID6BEeeoZ68lBwYatQ" presentationName="Recopilación de Directrices Técnicas y de Gestión (externo)">
+            <methodElementProperty xmi:id="_2EFJMD6BEeeoZ68lBwYatQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_6acsgD6BEeeoZ68lBwYatQ" name="catalogo_de_normas" guid="_6acsgD6BEeeoZ68lBwYatQ" presentationName="Catálogo de Normas">
+            <methodElementProperty xmi:id="_9AycoD6BEeeoZ68lBwYatQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_1SPAED6CEeeoZ68lBwYatQ" name="equipo_de_trabajo_del_evs(evs_1.3)" guid="_1SPAED6CEeeoZ68lBwYatQ" presentationName="Equipo de Trabajo del EVS (EVS 1.3)">
+            <methodElementProperty xmi:id="_7QaOsD6CEeeoZ68lBwYatQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_CJeYQD6DEeeoZ68lBwYatQ" name="identificacion_de_requisitos" guid="_CJeYQD6DEeeoZ68lBwYatQ" presentationName="Identificación de Requisitos">
+            <methodElementProperty xmi:id="_Gkw30D6DEeeoZ68lBwYatQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_rxq94D6EEeeoZ68lBwYatQ" name="(evs_3.2)catalogacion_de_requisitos" guid="_rxq94D6EEeeoZ68lBwYatQ" presentationName="(evs_3.2)Catalogación de Requisitos" performedBy="_r-LbwDmVEeeKy-mHAzdEhw" mandatoryInput="_CJeYQD6DEeeoZ68lBwYatQ" output="_Xv0ksDmYEeeKy-mHAzdEhw" additionallyPerformedBy="_vZGDcDmVEeeKy-mHAzdEhw _-0RsIDmiEeeKy-mHAzdEhw" optionalInput="_Xv0ksDmYEeeKy-mHAzdEhw">
+            <methodElementProperty xmi:id="_wlkxwD6EEeeoZ68lBwYatQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_qBdLMD6JEeeoZ68lBwYatQ" name="(evs_4.1)descripcion_de_las_de_solucion" guid="_qBdLMD6JEeeoZ68lBwYatQ" presentationName="(evs_4.1)Descripción de las de solución" performedBy="_r-LbwDmVEeeKy-mHAzdEhw" mandatoryInput="_jxDBQDmgEeeKy-mHAzdEhw" output="_AnJJMD6LEeeoZ68lBwYatQ _Tk07MD6LEeeoZ68lBwYatQ" additionallyPerformedBy="_vZGDcDmVEeeKy-mHAzdEhw _-0RsIDmiEeeKy-mHAzdEhw _7_fQUDmiEeeKy-mHAzdEhw _5kX4wDmiEeeKy-mHAzdEhw _zGvuADmiEeeKy-mHAzdEhw" optionalInput="_Wc-kMD2zEeeoZ68lBwYatQ _Xv0ksDmYEeeKy-mHAzdEhw">
+            <methodElementProperty xmi:id="_8Am4YD6JEeeoZ68lBwYatQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_AnJJMD6LEeeoZ68lBwYatQ" name="catalogo_de_requisitos(actualizado)" guid="_AnJJMD6LEeeoZ68lBwYatQ" presentationName="Catálogo de Requisitos(actualizado)">
+            <methodElementProperty xmi:id="_L64HQD6LEeeoZ68lBwYatQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Tk07MD6LEeeoZ68lBwYatQ" name="alternativas_de_solucion_a_estudiar" guid="_Tk07MD6LEeeoZ68lBwYatQ" presentationName="Alternativas de Solución a Estudiar">
+            <methodElementProperty xmi:id="_V8hLUD6LEeeoZ68lBwYatQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-H1tS3z2w8FQiYvnQIAz4mQ" href="uma://-H1tS3z2w8FQiYvnQIAz4mQ#-H1tS3z2w8FQiYvnQIAz4mQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Q_y9MD6MEeeoZ68lBwYatQ" name="(evs_5.1)estudio_de_la_inversion" guid="_Q_y9MD6MEeeoZ68lBwYatQ" presentationName="(evs_5.1)Estudio de la Inversión" performedBy="_r-LbwDmVEeeKy-mHAzdEhw" mandatoryInput="_Tk07MD6LEeeoZ68lBwYatQ" additionallyPerformedBy="_vZGDcDmVEeeKy-mHAzdEhw" optionalInput="_lBWnAD6MEeeoZ68lBwYatQ">
+            <methodElementProperty xmi:id="_Vrf3UD6MEeeoZ68lBwYatQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_lBWnAD6MEeeoZ68lBwYatQ" name="valoracion_de_alternativas" guid="_lBWnAD6MEeeoZ68lBwYatQ" presentationName="Valoración de alternativas">
+            <methodElementProperty xmi:id="_oUNe4D6MEeeoZ68lBwYatQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_GQtH0D6NEeeoZ68lBwYatQ" name="(evs_5.2)estudio_de_los_riesgos" guid="_GQtH0D6NEeeoZ68lBwYatQ" presentationName="(evs_5.2)Estudio de los Riesgos" performedBy="_r-LbwDmVEeeKy-mHAzdEhw" mandatoryInput="_Tk07MD6LEeeoZ68lBwYatQ" output="_lBWnAD6MEeeoZ68lBwYatQ" additionallyPerformedBy="_vZGDcDmVEeeKy-mHAzdEhw" optionalInput="_lBWnAD6MEeeoZ68lBwYatQ">
+            <methodElementProperty xmi:id="_Kek2cD6NEeeoZ68lBwYatQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_srXacD6OEeeoZ68lBwYatQ" name="(evs_5.3)planificacion_de_alternativas" guid="_srXacD6OEeeoZ68lBwYatQ" presentationName="(evs_5.3)Planificación de Alternativas" performedBy="_r-LbwDmVEeeKy-mHAzdEhw" mandatoryInput="_Xv0ksDmYEeeKy-mHAzdEhw" output="_9OSaMD6OEeeoZ68lBwYatQ" additionallyPerformedBy="_vZGDcDmVEeeKy-mHAzdEhw" optionalInput="_Tk07MD6LEeeoZ68lBwYatQ _lBWnAD6MEeeoZ68lBwYatQ">
+            <methodElementProperty xmi:id="_xbFR4D6OEeeoZ68lBwYatQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_9OSaMD6OEeeoZ68lBwYatQ" name="plan_trabajo_cada_alternativa" guid="_9OSaMD6OEeeoZ68lBwYatQ" presentationName="Plan_trabajo_cada_alternativa">
+            <methodElementProperty xmi:id="__qYCID6OEeeoZ68lBwYatQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-hT4XnhBgRiAvV_QBlAMu1A" href="uma://-hT4XnhBgRiAvV_QBlAMu1A#-hT4XnhBgRiAvV_QBlAMu1A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_7QkT0D6PEeeoZ68lBwYatQ" name="(evs_6.1)evaluacion_de_las_alternativas_y_seleccion" guid="_7QkT0D6PEeeoZ68lBwYatQ" presentationName="(evs_6.1)Evaluación de las Alternativas y Selección" performedBy="_lS0XADmVEeeKy-mHAzdEhw" mandatoryInput="_jxDBQDmgEeeKy-mHAzdEhw" output="_c7hLgD6QEeeoZ68lBwYatQ _z2D0oD6QEeeoZ68lBwYatQ" additionallyPerformedBy="_r-LbwDmVEeeKy-mHAzdEhw _vZGDcDmVEeeKy-mHAzdEhw" optionalInput="_Xv0ksDmYEeeKy-mHAzdEhw _Tk07MD6LEeeoZ68lBwYatQ _lBWnAD6MEeeoZ68lBwYatQ _9OSaMD6OEeeoZ68lBwYatQ">
+            <methodElementProperty xmi:id="_BCsqgD6QEeeoZ68lBwYatQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-JYibfApxdTRV-h7K6qNmJA" href="uma://-JYibfApxdTRV-h7K6qNmJA#-JYibfApxdTRV-h7K6qNmJA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_c7hLgD6QEeeoZ68lBwYatQ" name="plan_presentacion_alternativas" guid="_c7hLgD6QEeeoZ68lBwYatQ" presentationName="plan_presentación_alternativas">
+            <methodElementProperty xmi:id="_fdJawD6QEeeoZ68lBwYatQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_z2D0oD6QEeeoZ68lBwYatQ" name="catalogo_de_requisitos(actualizado_en_funcion_de_la_cobertura_de_la_solucion)" guid="_z2D0oD6QEeeoZ68lBwYatQ" presentationName="Catálogo de Requisitos (Actualizado en Función de la Cobertura de la Solución)">
+            <methodElementProperty xmi:id="_4pVWYD6QEeeoZ68lBwYatQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_94LZ0D6QEeeoZ68lBwYatQ" name="solucion_propuesta" guid="_94LZ0D6QEeeoZ68lBwYatQ" presentationName="Solución propuesta">
+            <methodElementProperty xmi:id="__nDWcD6QEeeoZ68lBwYatQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-GcQyrcUcK-fkBIkZe-CgGg" href="uma://-GcQyrcUcK-fkBIkZe-CgGg#-GcQyrcUcK-fkBIkZe-CgGg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_1JQscD6REeeoZ68lBwYatQ" name="(evs_6.2)aprobacion_de_la_solucion" guid="_1JQscD6REeeoZ68lBwYatQ" presentationName="(evs_6.2)Aprobación de la Solución" performedBy="_lS0XADmVEeeKy-mHAzdEhw" mandatoryInput="_Xv0ksDmYEeeKy-mHAzdEhw" output="_KOINYD6SEeeoZ68lBwYatQ" additionallyPerformedBy="_r-LbwDmVEeeKy-mHAzdEhw" optionalInput="_94LZ0D6QEeeoZ68lBwYatQ">
+            <methodElementProperty xmi:id="_870CwD6REeeoZ68lBwYatQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-Z_QAPtHAru3L6k_VhJY_qQ" href="uma://-Z_QAPtHAru3L6k_VhJY_qQ#-Z_QAPtHAru3L6k_VhJY_qQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_KOINYD6SEeeoZ68lBwYatQ" name="aprobacion_de_la_solucion" guid="_KOINYD6SEeeoZ68lBwYatQ" presentationName="Aprobación de la Solución">
+            <methodElementProperty xmi:id="_Oy6nMD6SEeeoZ68lBwYatQ" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_f-7WLTmCEeedyIH_DzGmJA" name="CapabilityPatterns" guid="_f-7WLTmCEeedyIH_DzGmJA"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_f-7WLjmCEeedyIH_DzGmJA" name="DeliveryProcesses" guid="_f-7WLjmCEeedyIH_DzGmJA">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_rmtRkDmCEeedyIH_DzGmJA" href="uma://_rmtRkDmCEeedyIH_DzGmJA#_rmtRkDmCEeedyIH_DzGmJA"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_f-7WLzmCEeedyIH_DzGmJA" name="ProcessContributions" guid="_f-7WLzmCEeedyIH_DzGmJA"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-_hWhgTh8neqMeeFjyI_V1A" name=",_C2BZcD24EeeoZ68lBwYatQ" guid="-_hWhgTh8neqMeeFjyI_V1A" changeDate="2017-05-21T23:37:24.228-0400">
+  <mainDescription>En esta tarea se describen los sistemas de información existentes afectados, según el alcance y nivel de detalle&#xD;
+establecido en la tarea Valoración del Estudio de la Situación Actual (EVS 2.1), mediante sesiones de trabajo con los&#xD;
+usuarios designados para este estudio. Si se ha decidido describir los sistemas a nivel lógico, y si existe un conocimiento&#xD;
+suficiente de los sistemas de información a especificar, puede hacerse directamente, aplicando las técnicas de modelización&#xD;
+y siguiendo un método descendente. Si no se dispone del conocimiento suficiente, se construyen los modelos a partir de la&#xD;
+descripción del modelo físico, es decir, de forma ascendente. Si se tiene que describir el modelo físico, se puede hacer&#xD;
+mediante un Diagrama de Representación en el que se recojan todos los componentes físicos y sus referencias cruzadas. Otra&#xD;
+opción es describir el modelo físico de forma más detallada, para lo que es necesaria la utilización de herramientas de&#xD;
+tipo scanner. Es conveniente indicar la localización geográfica y física actual de los módulos y datos de los sistemas de&#xD;
+información afectados, evaluando al mismo tiempo la redundancia en las distintas unidades organizativas.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

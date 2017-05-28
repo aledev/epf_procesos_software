@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0zV_iTvRRRixbRo1jm-V0g" name="new_artifact,_Wc-kMD2zEeeoZ68lBwYatQ" guid="-0zV_iTvRRRixbRo1jm-V0g" changeDate="2017-05-21T23:36:08.903-0400">
+  <mainDescription>&lt;p>&#xD;
+    Para cumplir con el producto se debe completar lo siguiente:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Contexto del Sistema Actual.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Descripción de los Sistemas de Información Actuales.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>
