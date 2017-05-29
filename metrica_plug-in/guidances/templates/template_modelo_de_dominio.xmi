@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-57PQx0p8SO_eTwHcYuJrmw" name="template_modelo_de_dominio,_UXRWEEPAEee96dpm-B80Tw" guid="-57PQx0p8SO_eTwHcYuJrmw">
+  <attachments>resources/MODELO DE DOMINIO.docx|resources/modeloDeDominio.pdf</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

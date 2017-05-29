@@ -10,7 +10,7 @@
     <resourceDescriptors xmi:id="_ahcAoT6OEeeoZ68lBwYatQ" id="-H1tS3z2w8FQiYvnQIAz4mQ" uri="workproducts/alternativas_de_solucion_a_estudiar(resultado_evs_4.2).xmi"/>
     <resourceDescriptors xmi:id="_KtxeID6PEeeoZ68lBwYatQ" id="-hT4XnhBgRiAvV_QBlAMu1A" uri="workproducts/plan_trabajo_cada_alternativa(resultado_evs_5.3).xmi"/>
     <resourceDescriptors xmi:id="_Ht1s0D6QEeeoZ68lBwYatQ" id="-JYibfApxdTRV-h7K6qNmJA" uri="tasks/(evs_6.2)evaluacion_de_las_alternativas_y_seleccion.xmi"/>
-    <resourceDescriptors xmi:id="_l_nMwT6REeeoZ68lBwYatQ" id="-GcQyrcUcK-fkBIkZe-CgGg" uri="workproducts/solucion_propuesta.xmi"/>
+    <resourceDescriptors xmi:id="_l_nMwT6REeeoZ68lBwYatQ" id="-GcQyrcUcK-fkBIkZe-CgGg" uri="workproducts/solucion_propuesta(resultado_evs_6.2).xmi"/>
     <resourceDescriptors xmi:id="_cE4zkT6SEeeoZ68lBwYatQ" id="-Z_QAPtHAru3L6k_VhJY_qQ" uri="tasks/(evs_6.3)aprobacion_de_la_solucion.xmi"/>
     <resourceDescriptors xmi:id="_cT8RUD6UEeeoZ68lBwYatQ" id="-PItchBdyh0_bsjgGEWnwQw" uri="tasks/(evs_1.2)identificacion_del_alcance_del_sistema.xmi"/>
     <resourceDescriptors xmi:id="_twtqMD6UEeeoZ68lBwYatQ" id="-0laKAFt-hmqqgH-LX-_btw" uri="workproducts/descripcion_general_del_sistema(evs_1.1).xmi"/>
@@ -105,6 +105,8 @@
     <resourceDescriptors xmi:id="_jgxgMESOEeeZ-8FVCCQAwg" id="-gp86Hh4xkF_uVQRsR9cuig" uri="workproducts/valoracion_de_alternativas(revisado_evs_5.2).xmi"/>
     <resourceDescriptors xmi:id="_ytjMYESOEeeZ-8FVCCQAwg" id="-EMSP1woSNcU-UWph_7HQZw" uri="tasks/(evs_5.3)planificacion_de_alternativas.xmi"/>
     <resourceDescriptors xmi:id="_Zu0zEESQEeeZ-8FVCCQAwg" id="-5UuEj1ZvsYlb7We3f6qRWg" uri="workproducts/catalogo_de_requisitos(actualizado_en_funcion_de_la_cobertura_de_la_solucion)(resultado_evs_6.2).xmi"/>
+    <resourceDescriptors xmi:id="_szVJgES2EeedtqBcmL8xhQ" id="-kaldIDtS3rnJVJU0nIaZZA" uri="guidances/templates/template_modelo_de_negocio.xmi"/>
+    <resourceDescriptors xmi:id="_eYCdQES5EeedtqBcmL8xhQ" id="-57PQx0p8SO_eTwHcYuJrmw" uri="guidances/templates/template_modelo_de_dominio.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_f-7WIDmCEeedyIH_DzGmJA" name="metrica_plug-in" guid="_f-7WIDmCEeedyIH_DzGmJA">
     <methodElementProperty xmi:id="_gOCJIDmCEeedyIH_DzGmJA" name="plugin_synFree" value="true"/>
@@ -283,7 +285,7 @@
             <methodElementProperty xmi:id="__qYCID6OEeeoZ68lBwYatQ" name="me_edited" value="true"/>
             <presentation xmi:id="-hT4XnhBgRiAvV_QBlAMu1A" href="uma://-hT4XnhBgRiAvV_QBlAMu1A#-hT4XnhBgRiAvV_QBlAMu1A"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_7QkT0D6PEeeoZ68lBwYatQ" name="(evs_6.2)evaluacion_de_las_alternativas_y_seleccion" guid="_7QkT0D6PEeeoZ68lBwYatQ" presentationName="(evs_6.2)Evaluación de las Alternativas y Selección" performedBy="_lS0XADmVEeeKy-mHAzdEhw" mandatoryInput="_jxDBQDmgEeeKy-mHAzdEhw" output="_c7hLgD6QEeeoZ68lBwYatQ _z2D0oD6QEeeoZ68lBwYatQ" additionallyPerformedBy="_r-LbwDmVEeeKy-mHAzdEhw _vZGDcDmVEeeKy-mHAzdEhw" optionalInput="_Tk07MD6LEeeoZ68lBwYatQ _9OSaMD6OEeeoZ68lBwYatQ _AnJJMD6LEeeoZ68lBwYatQ _gwnswESOEeeZ-8FVCCQAwg">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_7QkT0D6PEeeoZ68lBwYatQ" name="(evs_6.2)evaluacion_de_las_alternativas_y_seleccion" guid="_7QkT0D6PEeeoZ68lBwYatQ" presentationName="(evs_6.2)Evaluación de las Alternativas y Selección" performedBy="_lS0XADmVEeeKy-mHAzdEhw" mandatoryInput="_jxDBQDmgEeeKy-mHAzdEhw" output="_c7hLgD6QEeeoZ68lBwYatQ _z2D0oD6QEeeoZ68lBwYatQ _94LZ0D6QEeeoZ68lBwYatQ" additionallyPerformedBy="_r-LbwDmVEeeKy-mHAzdEhw _vZGDcDmVEeeKy-mHAzdEhw" optionalInput="_Tk07MD6LEeeoZ68lBwYatQ _9OSaMD6OEeeoZ68lBwYatQ _AnJJMD6LEeeoZ68lBwYatQ _gwnswESOEeeZ-8FVCCQAwg">
             <methodElementProperty xmi:id="_BCsqgD6QEeeoZ68lBwYatQ" name="me_edited" value="true"/>
             <presentation xmi:id="-JYibfApxdTRV-h7K6qNmJA" href="uma://-JYibfApxdTRV-h7K6qNmJA#-JYibfApxdTRV-h7K6qNmJA"/>
           </contentElements>
@@ -294,7 +296,7 @@
             <methodElementProperty xmi:id="_4pVWYD6QEeeoZ68lBwYatQ" name="me_edited" value="true"/>
             <presentation xmi:id="-5UuEj1ZvsYlb7We3f6qRWg" href="uma://-5UuEj1ZvsYlb7We3f6qRWg#-5UuEj1ZvsYlb7We3f6qRWg"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_94LZ0D6QEeeoZ68lBwYatQ" name="solucion_propuesta" guid="_94LZ0D6QEeeoZ68lBwYatQ" presentationName="Solución propuesta">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_94LZ0D6QEeeoZ68lBwYatQ" name="solucion_propuesta(resultado_evs_6.2)" guid="_94LZ0D6QEeeoZ68lBwYatQ" presentationName="Solución propuesta(Resultado EVS_6.2)">
             <methodElementProperty xmi:id="__nDWcD6QEeeoZ68lBwYatQ" name="me_edited" value="true"/>
             <presentation xmi:id="-GcQyrcUcK-fkBIkZe-CgGg" href="uma://-GcQyrcUcK-fkBIkZe-CgGg#-GcQyrcUcK-fkBIkZe-CgGg"/>
           </contentElements>
@@ -312,20 +314,22 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_pZD_wEO-Eee96dpm-B80Tw" name="catalogo_de_requisitos(revisado_asi_1.1)" guid="_pZD_wEO-Eee96dpm-B80Tw" presentationName="Catalogo de requisitos (REVISADO - ASI 1.1)">
             <methodElementProperty xmi:id="_y_GF4EO-Eee96dpm-B80Tw" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_oQagMEO_Eee96dpm-B80Tw" name="glosario" guid="_oQagMEO_Eee96dpm-B80Tw" presentationName="Glosario">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_oQagMEO_Eee96dpm-B80Tw" name="glosario(resultado_asi_1.1)" guid="_oQagMEO_Eee96dpm-B80Tw" presentationName="Glosario(Resultado ASI 1.1)">
             <methodElementProperty xmi:id="_pVAwwEO_Eee96dpm-B80Tw" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_wKHAUEO_Eee96dpm-B80Tw" name="modelo_de_negocio" guid="_wKHAUEO_Eee96dpm-B80Tw" presentationName="Modelo de negocio">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_wKHAUEO_Eee96dpm-B80Tw" name="modelo_de_negocio(resultado_asi_1.1)" guid="_wKHAUEO_Eee96dpm-B80Tw" presentationName="Modelo de negocio(Resultado ASI 1.1)" templates="_5B0n4EO_Eee96dpm-B80Tw">
             <methodElementProperty xmi:id="_ywFkEEO_Eee96dpm-B80Tw" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_zfmVcEO_Eee96dpm-B80Tw" name="modelo_de_dominio" guid="_zfmVcEO_Eee96dpm-B80Tw" presentationName="Modelo de dominio">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_zfmVcEO_Eee96dpm-B80Tw" name="modelo_de_dominio(resultado_asi_1.1)" guid="_zfmVcEO_Eee96dpm-B80Tw" presentationName="Modelo de dominio(Resultado ASI 1.1)" templates="_UXRWEEPAEee96dpm-B80Tw">
             <methodElementProperty xmi:id="_0oOxcEO_Eee96dpm-B80Tw" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_5B0n4EO_Eee96dpm-B80Tw" name="template_modelo_de_negocio" guid="_5B0n4EO_Eee96dpm-B80Tw" presentationName="Template modelo de negocio">
             <methodElementProperty xmi:id="_8le74EO_Eee96dpm-B80Tw" name="me_edited" value="true"/>
+            <presentation xmi:id="-kaldIDtS3rnJVJU0nIaZZA" href="uma://-kaldIDtS3rnJVJU0nIaZZA#-kaldIDtS3rnJVJU0nIaZZA"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_UXRWEEPAEee96dpm-B80Tw" name="template_modelo_de_dominio" guid="_UXRWEEPAEee96dpm-B80Tw" presentationName="Template modelo de dominio">
             <methodElementProperty xmi:id="_X1Gu4EPAEee96dpm-B80Tw" name="me_edited" value="true"/>
+            <presentation xmi:id="-57PQx0p8SO_eTwHcYuJrmw" href="uma://-57PQx0p8SO_eTwHcYuJrmw#-57PQx0p8SO_eTwHcYuJrmw"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_aLsLwEPAEee96dpm-B80Tw" name="template_caso_de_uso" guid="_aLsLwEPAEee96dpm-B80Tw" presentationName="Template caso de uso">
             <methodElementProperty xmi:id="_daFaYEPAEee96dpm-B80Tw" name="me_edited" value="true"/>
@@ -334,17 +338,17 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_eky6AEPAEee96dpm-B80Tw" name="template_diagrama_clase" guid="_eky6AEPAEee96dpm-B80Tw" presentationName="template_diagrama_clase">
             <methodElementProperty xmi:id="_gz85MEPAEee96dpm-B80Tw" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_cBvR8EPBEee96dpm-B80Tw" name="(asi_1.4)identificacion_de_los_usuarios_participantes_y_finales" guid="_cBvR8EPBEee96dpm-B80Tw" presentationName="(ASI_1.4) Identificación de los usuarios participantes y finales " performedBy="_r-LbwDmVEeeKy-mHAzdEhw" mandatoryInput="_mpJCADmbEeeKy-mHAzdEhw _5tZj0DmgEeeKy-mHAzdEhw" output="_FiXFYEPCEee96dpm-B80Tw _WehrkEPCEee96dpm-B80Tw" additionallyPerformedBy="_vZGDcDmVEeeKy-mHAzdEhw _f5YfID2xEeeoZ68lBwYatQ" optionalInput="_zfmVcEO_Eee96dpm-B80Tw _wKHAUEO_Eee96dpm-B80Tw">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_cBvR8EPBEee96dpm-B80Tw" name="(asi_1.4)identificacion_de_los_usuarios_participantes_y_finales" guid="_cBvR8EPBEee96dpm-B80Tw" presentationName="(ASI_1.4) Identificación de los usuarios participantes y finales " performedBy="_r-LbwDmVEeeKy-mHAzdEhw" mandatoryInput="_5tZj0DmgEeeKy-mHAzdEhw _PxiboERxEeeZ-8FVCCQAwg" output="_FiXFYEPCEee96dpm-B80Tw _WehrkEPCEee96dpm-B80Tw" additionallyPerformedBy="_vZGDcDmVEeeKy-mHAzdEhw _f5YfID2xEeeoZ68lBwYatQ" optionalInput="_zfmVcEO_Eee96dpm-B80Tw _wKHAUEO_Eee96dpm-B80Tw">
             <methodElementProperty xmi:id="_iRbHUEPBEee96dpm-B80Tw" name="me_edited" value="true"/>
             <presentation xmi:id="-wntMNbxebPBELGHwtAkjSg" href="uma://-wntMNbxebPBELGHwtAkjSg#-wntMNbxebPBELGHwtAkjSg"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_FiXFYEPCEee96dpm-B80Tw" name="catalogo_de_usuarios_actualizado" guid="_FiXFYEPCEee96dpm-B80Tw" presentationName="Catálogo de Usuarios (Actualizado)">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_FiXFYEPCEee96dpm-B80Tw" name="catalogo_de_usuarios_actualizado(revisado_asi_1.4)" guid="_FiXFYEPCEee96dpm-B80Tw" presentationName="Catálogo de Usuarios (Revisado)(ASI_1.4)">
             <methodElementProperty xmi:id="_NHayQEPCEee96dpm-B80Tw" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_WehrkEPCEee96dpm-B80Tw" name="sesiones_de_trabajo" guid="_WehrkEPCEee96dpm-B80Tw" presentationName="Sesiones de trabajo">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_WehrkEPCEee96dpm-B80Tw" name="plan_de_trabajo(resultado_asi_1.4)" guid="_WehrkEPCEee96dpm-B80Tw" presentationName="Plan de trabajo(Resultado ASI 1.4)">
             <methodElementProperty xmi:id="_YBq5UEPCEee96dpm-B80Tw" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_07JwoEPDEee96dpm-B80Tw" name="(asi_2.1)obtencion_de_requisitos" guid="_07JwoEPDEee96dpm-B80Tw" presentationName="(asi_2.1)Obtención de requisitos" performedBy="_-0RsIDmiEeeKy-mHAzdEhw" mandatoryInput="_Xv0ksDmYEeeKy-mHAzdEhw" output="_xFrecEPEEee96dpm-B80Tw _8S3voEPEEee96dpm-B80Tw" additionallyPerformedBy="_vZGDcDmVEeeKy-mHAzdEhw" optionalInput="_FiXFYEPCEee96dpm-B80Tw _F-tkcDmhEeeKy-mHAzdEhw _zfmVcEO_Eee96dpm-B80Tw _wKHAUEO_Eee96dpm-B80Tw">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_07JwoEPDEee96dpm-B80Tw" name="(asi_2.1)obtencion_de_requisitos" guid="_07JwoEPDEee96dpm-B80Tw" presentationName="(asi_2.1)Obtención de requisitos" performedBy="_-0RsIDmiEeeKy-mHAzdEhw" mandatoryInput="_FiXFYEPCEee96dpm-B80Tw" output="_xFrecEPEEee96dpm-B80Tw _8S3voEPEEee96dpm-B80Tw" additionallyPerformedBy="_vZGDcDmVEeeKy-mHAzdEhw" optionalInput="_zfmVcEO_Eee96dpm-B80Tw _wKHAUEO_Eee96dpm-B80Tw _WehrkEPCEee96dpm-B80Tw">
             <methodElementProperty xmi:id="_4LW9IEPDEee96dpm-B80Tw" name="me_edited" value="true"/>
             <presentation xmi:id="-4-fkMtNL_ACe_VnbsNAUmg" href="uma://-4-fkMtNL_ACe_VnbsNAUmg#-4-fkMtNL_ACe_VnbsNAUmg"/>
           </contentElements>
@@ -354,7 +358,7 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_8S3voEPEEee96dpm-B80Tw" name="modelo_de_casos_de_uso(asi_2.1)" guid="_8S3voEPEEee96dpm-B80Tw" presentationName="Modelo de casos de uso(ASI_2.1)">
             <methodElementProperty xmi:id="__oAfcEPEEee96dpm-B80Tw" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_SatwgEPFEee96dpm-B80Tw" name="(asi_2.2)especificacin_de_caso_de_uso" guid="_SatwgEPFEee96dpm-B80Tw" presentationName="(ASI 2.2)Especificación de caso de uso." performedBy="_-0RsIDmiEeeKy-mHAzdEhw" mandatoryInput="_xFrecEPEEee96dpm-B80Tw" output="_2uLQoEPHEee96dpm-B80Tw _WHxJsEPIEee96dpm-B80Tw" additionallyPerformedBy="_vZGDcDmVEeeKy-mHAzdEhw" optionalInput="_8S3voEPEEee96dpm-B80Tw">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_SatwgEPFEee96dpm-B80Tw" name="(asi_2.2)especificacin_de_caso_de_uso" guid="_SatwgEPFEee96dpm-B80Tw" presentationName="(ASI 2.2)Especificación de caso de uso." performedBy="_-0RsIDmiEeeKy-mHAzdEhw" mandatoryInput="_xFrecEPEEee96dpm-B80Tw" output="_2uLQoEPHEee96dpm-B80Tw _WHxJsEPIEee96dpm-B80Tw _CYrI4EPIEee96dpm-B80Tw" additionallyPerformedBy="_vZGDcDmVEeeKy-mHAzdEhw" optionalInput="_8S3voEPEEee96dpm-B80Tw">
             <methodElementProperty xmi:id="_bDGioEPFEee96dpm-B80Tw" name="me_edited" value="true"/>
             <presentation xmi:id="-LuQ9A6rTq7ipXKR2_3gbuw" href="uma://-LuQ9A6rTq7ipXKR2_3gbuw#-LuQ9A6rTq7ipXKR2_3gbuw"/>
           </contentElements>
@@ -450,7 +454,7 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_BX-N8EPVEee96dpm-B80Tw" name="modelo_de_clases_de_analisis(revisado_asi_5.3)" guid="_BX-N8EPVEee96dpm-B80Tw" presentationName="Modelo de Clases de Análisis(Revisado ASI 5.2)">
             <methodElementProperty xmi:id="_CC2W8EPVEee96dpm-B80Tw" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_tLLvEEPVEee96dpm-B80Tw" name="(asi_8.1)especificacion_de_principios_generales_de_la_interfaz" guid="_tLLvEEPVEee96dpm-B80Tw" presentationName="(asi_8.1)Especificación de Principios Generales de la Interfaz" performedBy="_-0RsIDmiEeeKy-mHAzdEhw" mandatoryInput="_6acsgD6BEeeoZ68lBwYatQ" output="_quzWwEPWEee96dpm-B80Tw" additionallyPerformedBy="_vZGDcDmVEeeKy-mHAzdEhw">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_tLLvEEPVEee96dpm-B80Tw" name="(asi_8.1)especificacion_de_principios_generales_de_la_interfaz" guid="_tLLvEEPVEee96dpm-B80Tw" presentationName="(asi_8.1)Especificación de Principios Generales de la Interfaz" performedBy="_-0RsIDmiEeeKy-mHAzdEhw" mandatoryInput="_WGO8MEQWEeeLoYG35EZ_Rg" output="_quzWwEPWEee96dpm-B80Tw" additionallyPerformedBy="_vZGDcDmVEeeKy-mHAzdEhw" optionalInput="_KX2NAEQXEeeLoYG35EZ_Rg">
             <methodElementProperty xmi:id="_w4bc4EPVEee96dpm-B80Tw" name="me_edited" value="true"/>
             <presentation xmi:id="-PWPs8FQvJcLW1FkuEM7TdQ" href="uma://-PWPs8FQvJcLW1FkuEM7TdQ#-PWPs8FQvJcLW1FkuEM7TdQ"/>
           </contentElements>

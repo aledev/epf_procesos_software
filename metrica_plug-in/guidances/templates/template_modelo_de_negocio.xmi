@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-kaldIDtS3rnJVJU0nIaZZA" name="template_modelo_de_negocio,_5B0n4EO_Eee96dpm-B80Tw" guid="-kaldIDtS3rnJVJU0nIaZZA">
+  <attachments>resources/modeloDeNegocio.pdf|resources/MODELO DE NEGOCIO.docx</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>
