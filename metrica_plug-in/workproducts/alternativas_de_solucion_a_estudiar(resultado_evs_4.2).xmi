@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-H1tS3z2w8FQiYvnQIAz4mQ" name="alternativas_de_solucion_a_estudiar(resultado_evs_4.2),_Tk07MD6LEeeoZ68lBwYatQ" guid="-H1tS3z2w8FQiYvnQIAz4mQ" changeDate="2017-05-29T12:19:46.639-0300">
+  <mainDescription>&lt;p>&#xD;
+    El producto incluye lo siguiente:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    o Catálogo de Requisitos (cobertura)&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    o Modelo de Descomposición en Subsistemas&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    o Matriz Procesos / Localización Geográfica&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    o Matriz Datos / Localización Geográfica&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    o Entorno Tecnológico y Comunicaciones&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    o Estrategia de Implantación Global del Sistema&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    o Descripción de Procesos Manuales&#xD;
+&lt;/p>&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

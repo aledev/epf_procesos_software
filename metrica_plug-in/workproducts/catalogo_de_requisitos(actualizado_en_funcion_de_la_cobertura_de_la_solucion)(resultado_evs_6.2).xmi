@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-5UuEj1ZvsYlb7We3f6qRWg" name="catalogo_de_requisitos(actualizado_en_funcion_de_la_cobertura_de_la_solucion),_z2D0oD6QEeeoZ68lBwYatQ" guid="-5UuEj1ZvsYlb7We3f6qRWg" changeDate="2017-05-29T14:01:04.968-0300">
+  <mainDescription>Solución Propuesta: o Descripción de la Solución · Modelo de Descomposición en Subsistemas · Matriz Procesos / Localización&#xD;
+Geográfica · Matriz Datos / Localización Geográfica · Entorno Tecnológico y Comunicaciones · Estrategia de Implantación&#xD;
+Global del Sistema · Descripción de Procesos Manuales Si la alternativa incluye desarrollo: · Modelo Abstracto de Datos /&#xD;
+Modelo de Procesos · Modelo de Negocio / Modelo de Dominio Si la alternativa incluye un producto software estándar de&#xD;
+mercado: · Descripción del Producto · Evolución del Producto · Costes Ocasionados por Producto · Estándares del Producto ·&#xD;
+Descripción de Adaptación (si es necesaria) o Contexto del Sistema (con la Definición de las Interfaces en Función de la&#xD;
+Solución) o Impacto en la Organización de la Solución o Coste / Beneficio de la Solución o Valoración de Riesgos de la&#xD;
+Solución o Enfoque del Plan de Trabajo de la Solución o Planificación de la Solución</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-zAZFmQGCvKbO7kiWJFmG8Q" name="(evs_4.1)descripcion_de_las_de_solucion,_qBdLMD6JEeeoZ68lBwYatQ" guid="-zAZFmQGCvKbO7kiWJFmG8Q" changeDate="2017-05-29T12:14:15.260-0300">
+  <mainDescription>Para cada alternativa propuesta, se identifican los subsistemas que cubre y los requisitos a los que se da respuesta. Se&#xD;
+deben considerar también aspectos relativos a la cobertura geográfica (ámbito y limitaciones) de procesos y datos, teniendo&#xD;
+en cuenta a su vez la gestión de comunicaciones y control de red.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

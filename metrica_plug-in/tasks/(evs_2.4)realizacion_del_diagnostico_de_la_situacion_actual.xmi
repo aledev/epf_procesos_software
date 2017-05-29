@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-SKC2DCxdkouejaYfo1EQzg" name="(evs_2.4)realizacion_del_diagnostico_de_la_situacion_actual,_q5s4UD25EeeoZ68lBwYatQ" guid="-SKC2DCxdkouejaYfo1EQzg" changeDate="2017-05-29T10:19:42.279-0300">
+  <mainDescription>&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;Times New Roman&quot;>&lt;font size=&quot;2&quot; face=&quot;Times New Roman&quot;>Con el fin de elaborar el diagnóstico de la&#xD;
+    situación actual se analiza la información de los sistemas de información existentes, obtenida en la tarea anterior y&#xD;
+    se identifican problemas, deficiencias y mejoras. Estas últimas deben tenerse en cuenta en la definición de los&#xD;
+    requisitos.&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

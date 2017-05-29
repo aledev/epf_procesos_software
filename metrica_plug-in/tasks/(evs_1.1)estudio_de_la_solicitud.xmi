@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-DIfIH4A6pyFe51pNAYK-CQ" name=",_mUdS0DmYEeeKy-mHAzdEhw" guid="-DIfIH4A6pyFe51pNAYK-CQ" changeDate="2017-05-21T23:08:34.835-0400">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-DIfIH4A6pyFe51pNAYK-CQ" name=",_mUdS0DmYEeeKy-mHAzdEhw" guid="-DIfIH4A6pyFe51pNAYK-CQ" changeDate="2017-05-29T09:15:10.741-0300">
   <mainDescription>&lt;p>&#xD;
     Se realiza una descripción general de la necesidad planteada por el usuario, y se estudian las posibles restricciones&#xD;
     de carácter económico, técnico, operativo y legal que puedan afectar al sistema. Antes de iniciar el estudio de los&#xD;
     requisitos del sistema se establecen los objetivos generales del Estudio de Viabilidad, teniendo en cuenta las&#xD;
-    restricciones identificadas anteriormente. Si el sistema objeto de estudio se encuentra en el ámbito de un Plan de&#xD;
-    Sistemas de Información vigente, se debe de tomar como referencia el catálogo de requisitos y la arquitectura de&#xD;
-    información resultante del mismo, como información adicional para la descripción general del sistema y determinación de&#xD;
-    los requisitos iniciales.&#xD;
+    restricciones identificadas anteriormente.&#xD;
 &lt;/p></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

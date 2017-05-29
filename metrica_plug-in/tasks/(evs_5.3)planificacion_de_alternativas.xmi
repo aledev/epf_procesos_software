@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-EMSP1woSNcU-UWph_7HQZw" name="(evs_5.3)planificacion_de_alternativas,_srXacD6OEeeoZ68lBwYatQ" guid="-EMSP1woSNcU-UWph_7HQZw" changeDate="2017-05-29T13:49:33.618-0300">
+  <mainDescription>&lt;p>&#xD;
+    En función del análisis de riesgos realizado en la tarea anterior, y para cada una de las alternativas existentes:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Se determina el enfoque más adecuado para llevar a buen fin la solución propuesta en cada alternativa.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Se realiza una planificación, teniendo en cuenta los puntos de sincronismo con otros proyectos en desarrollo o que&#xD;
+    esté previsto desarrollar, según se ha recogido en el catálogo de requisitos.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    De esta manera se garantiza el cumplimiento del plan de trabajo en los restantes procesos del ciclo de vida.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

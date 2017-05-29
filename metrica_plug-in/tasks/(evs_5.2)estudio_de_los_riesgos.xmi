@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0w2WW0J1-Zyz7y7h1vBfNg" name="(evs_5.2)estudio_de_los_riesgos,_GQtH0D6NEeeoZ68lBwYatQ" guid="-0w2WW0J1-Zyz7y7h1vBfNg" changeDate="2017-05-29T13:46:29.547-0300">
+  <mainDescription>Para cada alternativa se seleccionan los factores de situación que habrá que considerar, relativos tanto a la incertidumbre&#xD;
+como a la complejidad del sistema. Se identifican y valoran los riesgos asociados y se determinan las medidas a tomar para&#xD;
+minimizarlos.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

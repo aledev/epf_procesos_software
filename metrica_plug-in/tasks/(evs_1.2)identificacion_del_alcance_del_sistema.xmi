@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-PItchBdyh0_bsjgGEWnwQw" name="(evs_1.2)identificacion_del_alcance_del_sistema,_ZUJzUDmaEeeKy-mHAzdEhw" guid="-PItchBdyh0_bsjgGEWnwQw" changeDate="2017-05-21T23:11:13.429-0400">
-  <mainDescription>Se analiza el alcance de la necesidad planteada y se identifican las restricciones relativas a la sincronización con otros&#xD;
-proyectos, que puedan interferir en la planificación y futura puesta a punto del sistema objeto del estudio. Esta&#xD;
-información se recoge en el catálogo de requisitos. Si el sistema pertenece al ámbito de un Plan de Sistemas de&#xD;
-Información, se debe tener en cuenta la arquitectura de información propuesta para analizar el alcance del sistema e&#xD;
-identificar los sistemas de información que quedan fuera del ámbito del estudio. Además, se estudia el plan de proyectos,&#xD;
-para determinar las posibles dependencias con otros proyectos. Una vez establecido el alcance, se identifican las unidades&#xD;
-organizativas afectadas por el sistema, así como su estructura y responsables de las mismas. Para determinar los&#xD;
-responsables se tiene en cuenta a quiénes afecta directamente y quiénes pueden influir en el éxito o fracaso del mismo.</mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-PItchBdyh0_bsjgGEWnwQw" name="(evs_1.2)identificacion_del_alcance_del_sistema,_ZUJzUDmaEeeKy-mHAzdEhw" guid="-PItchBdyh0_bsjgGEWnwQw" changeDate="2017-05-29T09:22:19.111-0300">
+  <mainDescription>&lt;p>&#xD;
+    Se analiza el alcance de la necesidad planteada y se identifican las restricciones relativas a la sincronización con&#xD;
+    otros proyectos, que puedan interferir en la planificación y futura puesta a punto del sistema objeto del estudio. Esta&#xD;
+    información se recoge en el catálogo de requisitos.&#xD;
+&lt;/p></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

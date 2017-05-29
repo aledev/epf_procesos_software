@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wprtUOfOVo4KwYXu-hokqQ" name="descripcion_de_la_situacion_actual(revisado_evs_2.3),_Fqx_UER3EeeZ-8FVCCQAwg" guid="-wprtUOfOVo4KwYXu-hokqQ" changeDate="2017-05-29T09:55:38.513-0300">
+  <mainDescription>&lt;p>&#xD;
+    Para cumplir con el producto se debe completar lo siguiente:&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;Times New Roman&quot;>&lt;font size=&quot;2&quot; face=&quot;Times New Roman&quot;>-Descripción Lógica del Sistema&#xD;
+    Actual&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;Times New Roman&quot;>&lt;font size=&quot;2&quot; face=&quot;Times New Roman&quot;>-Modelo Físico del Sistema Actual&#xD;
+    (opcional)&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;Times New Roman&quot;>&lt;font size=&quot;2&quot; face=&quot;Times New Roman&quot;>-Matriz de Localización Geográfica y Física&#xD;
+    de Módulos y Datos, incluidas las redundancias&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

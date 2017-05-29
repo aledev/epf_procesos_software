@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gp86Hh4xkF_uVQRsR9cuig" name="valoracion_de_alternativas(revisado_evs_5.2),_gwnswESOEeeZ-8FVCCQAwg" guid="-gp86Hh4xkF_uVQRsR9cuig" changeDate="2017-05-29T13:45:25.107-0300">
+  <mainDescription>&lt;p>&#xD;
+    -Impacto en la Organización de Alternativas.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    -Coste / beneficio de Alternativas.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

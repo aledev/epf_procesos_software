@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ZA567yQYkiGZaIB-rG9rvw" name="(evs_5.1)estudio_de_la_inversion,_Q_y9MD6MEeeoZ68lBwYatQ" guid="-ZA567yQYkiGZaIB-rG9rvw" changeDate="2017-05-29T13:41:18.885-0300">
+  <mainDescription>Para cada alternativa de solución propuesta, se valora el impacto en la organización y se establece su viabilidad&#xD;
+económica. Para ello, se realiza un análisis coste/beneficio que determina los costes del sistema y los pondera con los&#xD;
+beneficios tangibles, cuantificables directamente, y con los beneficios intangibles, buscando el modo de cuantificarlos.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>
