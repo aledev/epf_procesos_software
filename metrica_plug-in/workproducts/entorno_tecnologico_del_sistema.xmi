@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-BtT8oCXq1nQUjUgLMMz0qw" name="new_artifact,__cirIEQYEeeLoYG35EZ_Rg" guid="-BtT8oCXq1nQUjUgLMMz0qw">
+  <mainDescription>&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;1&quot; face=&quot;Courier New&quot;>&lt;font size=&quot;1&quot; face=&quot;Courier New&quot;>o&lt;/font>&lt;/font> &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font&#xD;
+    size=&quot;3&quot; face=&quot;Arial&quot;>Especificación del Entorno Tecnológico&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;1&quot; face=&quot;Courier New&quot;>&lt;font size=&quot;1&quot; face=&quot;Courier New&quot;>o&lt;/font>&lt;/font> &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font&#xD;
+    size=&quot;3&quot; face=&quot;Arial&quot;>Restricciones Técnicas&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;1&quot; face=&quot;Courier New&quot;>&lt;font size=&quot;1&quot; face=&quot;Courier New&quot;>o&lt;/font>&lt;/font> &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font&#xD;
+    size=&quot;3&quot; face=&quot;Arial&quot;>Estimación de Planificación de Capacidades&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

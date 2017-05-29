@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-RTfpzGr66Xysnzv98ipA-Q" name="new_artifact,_Z6iWcEQlEeeLoYG35EZ_Rg" guid="-RTfpzGr66Xysnzv98ipA-Q" changeDate="2017-05-29T01:16:15.660-0300">
+  <mainDescription>&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;1&quot; face=&quot;Courier New&quot;>&lt;font size=&quot;1&quot; face=&quot;Courier New&quot;>o&lt;/font>&lt;/font> &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font&#xD;
+    size=&quot;3&quot; face=&quot;Arial&quot;>Formatos Individuales de Interfaz de Pantalla Gráfica&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;1&quot; face=&quot;Courier New&quot;>&lt;font size=&quot;1&quot; face=&quot;Courier New&quot;>o&lt;/font>&lt;/font> &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font&#xD;
+    size=&quot;3&quot; face=&quot;Arial&quot;>Catálogo de Controles y Elementos de Diseño de Interfaz de Pantalla Gráfica&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;1&quot; face=&quot;Courier New&quot;>&lt;font size=&quot;1&quot; face=&quot;Courier New&quot;>o&lt;/font>&lt;/font> &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font&#xD;
+    size=&quot;3&quot; face=&quot;Arial&quot;>Modelo de Navegación de Interfaz de Pantalla Gráfica&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;1&quot; face=&quot;Courier New&quot;>&lt;font size=&quot;1&quot; face=&quot;Courier New&quot;>o&lt;/font>&lt;/font> &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font&#xD;
+    size=&quot;3&quot; face=&quot;Arial&quot;>Formatos de Impresión&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;1&quot; face=&quot;Courier New&quot;>&lt;font size=&quot;1&quot; face=&quot;Courier New&quot;>o&lt;/font>&lt;/font> &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font&#xD;
+    size=&quot;3&quot; face=&quot;Arial&quot;>Prototipo de Interfaz de Pantalla Gráfica&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

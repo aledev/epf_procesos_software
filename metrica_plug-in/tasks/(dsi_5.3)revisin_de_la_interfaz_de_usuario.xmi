@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-In5E18jxXvLHsd_68faZEg" name=",_dhzNUEP_Eee7BNFtVTGNCw" guid="-In5E18jxXvLHsd_68faZEg">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-In5E18jxXvLHsd_68faZEg" name=",_dhzNUEP_Eee7BNFtVTGNCw" guid="-In5E18jxXvLHsd_68faZEg" changeDate="2017-05-29T02:30:46.822-0300">
   <mainDescription>&lt;p align=&quot;left&quot;>&#xD;
     &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>El objetivo de esta tarea es realizar el diseño detallado de la&#xD;
     interfaz de usuario, tanto de&lt;/font>&lt;/font>&#xD;
@@ -96,13 +96,6 @@
 &lt;p align=&quot;left&quot;>&#xD;
     &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>advertencia que genera el sistema en función del tipo de acción&#xD;
     realizado por el usuario en el&lt;/font>&lt;/font>&#xD;
-&lt;/p>&#xD;
-&lt;p align=&quot;left&quot;>&#xD;
-    &lt;font size=&quot;2&quot; face=&quot;Arial&quot;>&lt;font size=&quot;2&quot; face=&quot;Arial&quot;>Diseño del Sistema de Información 33&lt;/font>&lt;/font>&#xD;
-&lt;/p>&#xD;
-&lt;p align=&quot;left&quot;>&#xD;
-    &lt;font size=&quot;1&quot; face=&quot;Arial&quot;>&lt;font size=&quot;1&quot; face=&quot;Arial&quot;>&amp;copy; Ministerio de Administraciones Públicas&lt;/font>&lt;/font> &lt;font&#xD;
-    size=&quot;2&quot; face=&quot;Arial&quot;>&lt;font size=&quot;2&quot; face=&quot;Arial&quot;>Metodología MÉTRICA Versión 3&lt;/font>&lt;/font>&#xD;
 &lt;/p>&#xD;
 &lt;p align=&quot;left&quot;>&#xD;
     &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>contexto del diálogo, así como las facilidades de ayuda que&#xD;
