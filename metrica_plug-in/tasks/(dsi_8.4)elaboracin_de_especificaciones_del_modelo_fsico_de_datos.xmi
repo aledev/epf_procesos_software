@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-aadF20mCM3romtbws8Cp1g" name=",_6uIkoEP_Eee7BNFtVTGNCw" guid="-aadF20mCM3romtbws8Cp1g" changeDate="2017-05-28T21:21:09.654-0300">
+  <mainDescription>&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>En esta tarea se generan las especificaciones necesarias para&#xD;
+    la definición y creación de&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>los elementos del modelo físico de datos, mediante el lenguaje&#xD;
+    de definición de datos del&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>correspondiente gestor de base de datos o sistema de ficheros,&#xD;
+    teniendo en cuenta el entorno&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>tecnológico, las normas y estándares de la organización y&#xD;
+    características intrínsecas del gestor&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>o sistema de ficheros a utilizar.&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

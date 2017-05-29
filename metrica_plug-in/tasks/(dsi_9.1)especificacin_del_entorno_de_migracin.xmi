@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-bECLjyBMCFuLMnCEhL6KXg" name=",_9QJOYEP_Eee7BNFtVTGNCw" guid="-bECLjyBMCFuLMnCEhL6KXg">
+  <mainDescription>&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>El objetivo de esta tarea es definir el entorno tecnológico&#xD;
+    propio de los procesos de&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>migración y carga inicial, adecuando al mismo las necesidades y&#xD;
+    requisitos reflejados en el plan&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>de migración y carga inicial de datos. En la descripción del&#xD;
+    entorno tecnológico, hay que tener&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>en cuenta las herramientas o utilidades software específicas de&#xD;
+    estos procesos.&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>Se realiza una estimación de capacidades&#xD;
+    (c&lt;/font>&lt;/font>&lt;i>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>apacity planning&lt;/font>&lt;/font>&lt;/i>&lt;font&#xD;
+    size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>) para este entorno que&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>permita evaluar las necesidades de infraestructura,&#xD;
+    principalmente relacionadas con el espacio&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>de almacenamiento y las comunicaciones.&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

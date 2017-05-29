@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-q0RzyZLpN9lNvMYTnUDV6Q" name=",_Fgko8EP_Eee7BNFtVTGNCw" guid="-q0RzyZLpN9lNvMYTnUDV6Q" changeDate="2017-05-28T21:06:09.056-0300">
+  <mainDescription>&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>El objetivo de esta tarea es identificar un conjunto de clases&#xD;
+    que completen el modelo de&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>clases analizado en la tarea Validación de los Modelos (ASI&#xD;
+    9.3) del proceso anterior (clases y/o&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>interfaces) teniendo en cuenta que:&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;SymbolPS&quot;>&lt;font size=&quot;2&quot; face=&quot;SymbolPS&quot;>-&lt;/font>&lt;/font> &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font&#xD;
+    size=&quot;3&quot; face=&quot;Arial&quot;>Cada interfaz identificada en el análisis se corresponde en el diseño con una clase&#xD;
+    que&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>proporcione esa interfaz.&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;SymbolPS&quot;>&lt;font size=&quot;2&quot; face=&quot;SymbolPS&quot;>-&lt;/font>&lt;/font> &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font&#xD;
+    size=&quot;3&quot; face=&quot;Arial&quot;>El conjunto de clases del análisis puede modificarse en función de las tecnologías&#xD;
+    de&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>desarrollo utilizadas y de los mecanismos genéricos de diseño&#xD;
+    especificados.&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>Las clases de control deben contemplar la coordinación y&#xD;
+    secuencia entre objetos y, en&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>algunos casos, deben contener lógica de negocio. De cualquier&#xD;
+    manera, se deben considerar&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>cuestiones de distribución, de rendimiento, de transacción y de&#xD;
+    serialización.&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

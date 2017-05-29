@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-zT_raeF4EkKFHGeXRyjSCQ" name=",_5dvwQEP-Eee7BNFtVTGNCw" guid="-zT_raeF4EkKFHGeXRyjSCQ" changeDate="2017-05-28T21:03:36.933-0300">
+  <mainDescription>&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>El objetivo de esta tarea es identificar las clases que&#xD;
+    intervienen en cada caso de uso, a&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>partir del conjunto de clases definidas en la tarea&#xD;
+    Identificación de Clases Adicionales (DSI 4.1),&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>ya que, como se ha señalado en la introducción de esta&#xD;
+    actividad, las actividades DSI 3 y DSI 4&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>se realizan en paralelo. Dichas clases se identifican a partir&#xD;
+    de las clases del modelo del&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>análisis y de aquellas clases adicionales necesarias para el&#xD;
+    escenario que se está diseñando.&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>A su vez, a medida que se va estudiando la descripción de los&#xD;
+    casos de uso, pueden&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>aparecer nuevas clases de diseño que no hayan sido&#xD;
+    identificadas anteriormente y que se&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>incorporan al modelo de clases en la tarea Identificación de&#xD;
+    Clases Adicionales (DSI 4.1).&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

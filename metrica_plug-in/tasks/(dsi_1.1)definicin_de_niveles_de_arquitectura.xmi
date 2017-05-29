@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ydOnMV0hxY4Wsr1K4R9mnA" name=",_-8YYoEP9Eee7BNFtVTGNCw" guid="-ydOnMV0hxY4Wsr1K4R9mnA" changeDate="2017-05-28T20:53:32.096-0300">
+  <mainDescription>&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>En esta tarea se describen los niveles de la arquitectura&#xD;
+    software, mediante la definiciónde las principales particiones físicas del sistema de información, representadas como&#xD;
+    nodos y comunicaciones entre nodos.&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>Se entiende por nodo cada partición física o parte&#xD;
+    significativa del sistema de información, con características propias de ejecución o función, e incluso de diseño&#xD;
+    yconstrucción.&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

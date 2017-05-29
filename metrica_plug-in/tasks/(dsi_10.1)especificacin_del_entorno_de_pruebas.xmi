@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-rWFCHFNEnC4X4ZwmpiPq7A" name=",_ISm2QEQAEee7BNFtVTGNCw" guid="-rWFCHFNEnC4X4ZwmpiPq7A" changeDate="2017-05-28T21:24:51.071-0300">
+  <mainDescription>&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>El objetivo de esta tarea es la definición detallada y completa&#xD;
+    del entorno necesario para la&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>realización de las pruebas del sistema: unitarias, de&#xD;
+    integración, de implantación y de&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>aceptación.&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>Se propone considerar los siguientes conceptos en la&#xD;
+    especificación del entorno:&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;SymbolPS&quot;>&lt;font size=&quot;2&quot; face=&quot;SymbolPS&quot;>-&lt;/font>&lt;/font> &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font&#xD;
+    size=&quot;3&quot; face=&quot;Arial&quot;>Entorno tecnológico: hardware, software y comunicaciones.&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;SymbolPS&quot;>&lt;font size=&quot;2&quot; face=&quot;SymbolPS&quot;>-&lt;/font>&lt;/font> &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font&#xD;
+    size=&quot;3&quot; face=&quot;Arial&quot;>Restricciones técnicas del entorno.&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;SymbolPS&quot;>&lt;font size=&quot;2&quot; face=&quot;SymbolPS&quot;>-&lt;/font>&lt;/font> &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font&#xD;
+    size=&quot;3&quot; face=&quot;Arial&quot;>Requisitos de operación y seguridad del entorno de pruebas.&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;SymbolPS&quot;>&lt;font size=&quot;2&quot; face=&quot;SymbolPS&quot;>-&lt;/font>&lt;/font> &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font&#xD;
+    size=&quot;3&quot; face=&quot;Arial&quot;>Herramientas de prueba relacionadas con la extracción de juegos de ensayo, análisis&#xD;
+    de&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>resultados, utilidades de gestión del entorno,&#xD;
+    etc.&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;SymbolPS&quot;>&lt;font size=&quot;2&quot; face=&quot;SymbolPS&quot;>-&lt;/font>&lt;/font> &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font&#xD;
+    size=&quot;3&quot; face=&quot;Arial&quot;>Planificación de capacidades previstas, o la información que estime oportuno el&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>departamento técnico para efectuar dicha&#xD;
+    planificación.&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;SymbolPS&quot;>&lt;font size=&quot;2&quot; face=&quot;SymbolPS&quot;>-&lt;/font>&lt;/font> &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font&#xD;
+    size=&quot;3&quot; face=&quot;Arial&quot;>Procedimientos de promoción de elementos entre entornos (desarrollo, pruebas,&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font size=&quot;3&quot; face=&quot;Arial&quot;>explotación, etc.).&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;SymbolPS&quot;>&lt;font size=&quot;2&quot; face=&quot;SymbolPS&quot;>-&lt;/font>&lt;/font> &lt;font size=&quot;3&quot; face=&quot;Arial&quot;>&lt;font&#xD;
+    size=&quot;3&quot; face=&quot;Arial&quot;>Procedimientos de emergencia y de recuperación, así como de vuelta atrás.&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

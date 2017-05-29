@@ -42,6 +42,50 @@
     <resourceDescriptors xmi:id="_FWXNwEPjEee96dpm-B80Tw" id="-C1P6bSJfMQPGOXxW8v8AfA" uri="workproducts/plan_de_pruebas(resultado_asi_10.2).xmi"/>
     <resourceDescriptors xmi:id="_P-X40EPkEee96dpm-B80Tw" id="-AMEW-zXiOSqBOje2dvi_Eg" uri="workproducts/plan_de_pruebas(resultado_asi_10.3).xmi"/>
     <resourceDescriptors xmi:id="_8mKRgUPkEee96dpm-B80Tw" id="-Gjqn9yAkUFENjzqI22DiWg" uri="tasks/(asi_11.1)presentacion_y_aprobacion_del_analisis_del_sistema_de_informacion.xmi"/>
+    <resourceDescriptors xmi:id="_3313gEQAEee7BNFtVTGNCw" id="-ydOnMV0hxY4Wsr1K4R9mnA" uri="tasks/(dsi_1.1)definicin_de_niveles_de_arquitectura.xmi"/>
+    <resourceDescriptors xmi:id="_jWoAwEQBEee7BNFtVTGNCw" id="-hvoI54NlW62BWx-TrbUlPg" uri="tasks/(dsi_1.2)identificacin_de_requisitos_de_diseo_y_construccin.xmi"/>
+    <resourceDescriptors xmi:id="_p8HuEEQBEee7BNFtVTGNCw" id="-U4nOhiBoXI3lQMm6RKajrw" uri="tasks/(dsi_1.3)especificacin_de_excepciones.xmi"/>
+    <resourceDescriptors xmi:id="_uSX8oEQBEee7BNFtVTGNCw" id="-ALuPksJodYt_IcTv2_es2Q" uri="tasks/(dsi_1.4)especificacin_de_estndares_y_normas_de_diseo_y_construccin.xmi"/>
+    <resourceDescriptors xmi:id="_z5LNEEQBEee7BNFtVTGNCw" id="-qpRxEXZhR3rVxTZaeyyxBw" uri="tasks/(dsi_1.5)identificacin_de_subsistemas_de_diseo.xmi"/>
+    <resourceDescriptors xmi:id="__awZ4EQBEee7BNFtVTGNCw" id="-jTuTrl2utwlO4zDUg0bgKg" uri="tasks/(dsi_1.6)especificacin_del_entorno_tecnolgico.xmi"/>
+    <resourceDescriptors xmi:id="_E6QIcEQCEee7BNFtVTGNCw" id="-NxGwYBY9fwj8Be3xP2N9KA" uri="tasks/(dsi_1.7)especificacin_de_requisitos_de_operacin_y_seguridad.xmi"/>
+    <resourceDescriptors xmi:id="_J57ugEQCEee7BNFtVTGNCw" id="-3u-2sWpiKgAo5FkndIeS8w" uri="tasks/(dsi_2.1)diseo_de_subsistemas_de_soporte.xmi"/>
+    <resourceDescriptors xmi:id="_N7wlMEQCEee7BNFtVTGNCw" id="-Pm4lT4eRdAiRkvaGiveDAA" uri="tasks/(dsi_2.2)identificacin_de_mecanismos_genricos_de_diseo.xmi"/>
+    <resourceDescriptors xmi:id="_WNfK0EQCEee7BNFtVTGNCw" id="-zT_raeF4EkKFHGeXRyjSCQ" uri="tasks/(dsi_3.1)identificacin_de_clases_asociadas_a_un_caso_de_uso.xmi"/>
+    <resourceDescriptors xmi:id="_Z1ZFoEQCEee7BNFtVTGNCw" id="-i-3Bdpg6qnBU0BibeDt6oQ" uri="tasks/(dsi_3.2)diseo_de_la_realizacin_de_los_casos_de_uso.xmi"/>
+    <resourceDescriptors xmi:id="_eh20wEQCEee7BNFtVTGNCw" id="-cyf9mBI6zT_tLofq7U6Vjw" uri="tasks/(dsi_3.3)revisin_de_la_interfaz_de_usuario.xmi"/>
+    <resourceDescriptors xmi:id="_ihsHYEQCEee7BNFtVTGNCw" id="-kWVY2E-EMkslPlLjd0lh5g" uri="tasks/(dsi_3.4)revisin_de_subsistemas_de_diseo_e_interfaces.xmi"/>
+    <resourceDescriptors xmi:id="_r0Gt8EQCEee7BNFtVTGNCw" id="-q0RzyZLpN9lNvMYTnUDV6Q" uri="tasks/(dsi_4.1)identificacin_de_clases_adicionales.xmi"/>
+    <resourceDescriptors xmi:id="_ypR2AEQCEee7BNFtVTGNCw" id="-lEGep7-6joqPchKH7IHwGA" uri="tasks/(dsi_4.2)diseo_de_asociaciones_y_agregaciones.xmi"/>
+    <resourceDescriptors xmi:id="_9lXJEEQCEee7BNFtVTGNCw" id="-eSwbop-GajWO1km3qdQsGA" uri="tasks/(dsi_4.3)identificacin_de_atributos_de_las_clases.xmi"/>
+    <resourceDescriptors xmi:id="_GI_-EEQDEee7BNFtVTGNCw" id="-rBJjaNXpUCcYertbdRRDXQ" uri="tasks/(dsi_4.4)identificacin_de_operaciones_de_las_clases.xmi"/>
+    <resourceDescriptors xmi:id="_J2Zc4EQDEee7BNFtVTGNCw" id="-J-QhEgEAf4s6DJFGggh06g" uri="tasks/(dsi_4.5)diseo_de_la_jerarqua.xmi"/>
+    <resourceDescriptors xmi:id="_THqz8EQDEee7BNFtVTGNCw" id="-xPP4kAIc1VajXJId0thqow" uri="tasks/(dsi_4.6)descripcin_de_mtodos_de_las_operaciones.xmi"/>
+    <resourceDescriptors xmi:id="_Xw6P8EQDEee7BNFtVTGNCw" id="-7iSShn3lmSwBWykNCNJVPQ" uri="tasks/(dsi_4.7)especificacin_de_necesidades_de_migracin_y_carga_inicial_de_datos.xmi"/>
+    <resourceDescriptors xmi:id="_fTpBkEQDEee7BNFtVTGNCw" id="-aU63_xu6x-5DuCe4DtkWyg" uri="tasks/(dsi_5.1)diseo_de_mdulos_del_sistema.xmi"/>
+    <resourceDescriptors xmi:id="_j7tY4EQDEee7BNFtVTGNCw" id="-LJ8fqH1oQUE43q2r3Kdl0Q" uri="tasks/(dsi_5.2)diseo_de_comunicaciones_entre_mdulos.xmi"/>
+    <resourceDescriptors xmi:id="_n_5AAEQDEee7BNFtVTGNCw" id="-In5E18jxXvLHsd_68faZEg" uri="tasks/(dsi_5.3)revisin_de_la_interfaz_de_usuario.xmi"/>
+    <resourceDescriptors xmi:id="_vVAMYEQDEee7BNFtVTGNCw" id="-GIMjdT644vPTKDgcsQJg2g" uri="tasks/(dsi_6.1)diseo_del_modelo_fsico_de_datos.xmi"/>
+    <resourceDescriptors xmi:id="_y1xkcEQDEee7BNFtVTGNCw" id="-MudKHZe7dJlGiEzovEEUNQ" uri="tasks/(dsi_6.2)especificacin_de_los_caminos_de_acceso_a_los_datos.xmi"/>
+    <resourceDescriptors xmi:id="_3924kEQDEee7BNFtVTGNCw" id="-1ZLExS_9IDyAo53UiZrbcg" uri="tasks/(dsi_6.3)optimizacin_del_modelo_fsico_de_datos.xmi"/>
+    <resourceDescriptors xmi:id="_IwkAwEQEEee7BNFtVTGNCw" id="-aHU5NI8ptG6fsWaTuujHtA" uri="tasks/(dsi_6.4)especificacin_de_la_distribucin_de_datos.xmi"/>
+    <resourceDescriptors xmi:id="_NTk48EQEEee7BNFtVTGNCw" id="-K04XkCIltdYZRylKYc4ZFg" uri="tasks/(dsi_7.1)verificacin_de_las_especificaciones_de_diseo.xmi"/>
+    <resourceDescriptors xmi:id="_V8kIAEQEEee7BNFtVTGNCw" id="-G7LU_PHnxvMc3ZsxwLGR8Q" uri="tasks/(dsi_7.2)anlisis_de_consistencia_de_las_especificaciones_de_diseo.xmi"/>
+    <resourceDescriptors xmi:id="_b_6xkEQEEee7BNFtVTGNCw" id="-pfoQpQt4nks7HTY5ii2O_g" uri="tasks/(dsi_7.3)aceptacin_de_la_arquitectura_del_sistema.xmi"/>
+    <resourceDescriptors xmi:id="_hVE4YEQEEee7BNFtVTGNCw" id="-I_5iMHXznUgDZcUZrkVJ4g" uri="tasks/(dsi_8.1)especificacin_del_entorno_de_construccin.xmi"/>
+    <resourceDescriptors xmi:id="_mnJO8EQEEee7BNFtVTGNCw" id="-PCzbY7Qx_bn_3jf54SXRQw" uri="tasks/(dsi_8.2)definicin_de_componentes_y_subsistemas_de_construccin.xmi"/>
+    <resourceDescriptors xmi:id="_sG5cMEQEEee7BNFtVTGNCw" id="-JLSjE54Gbk6hiSXRT5yHRg" uri="tasks/(dsi_8.3)elaboracin_de_especificaciones_de_construccin.xmi"/>
+    <resourceDescriptors xmi:id="_vU5pQEQEEee7BNFtVTGNCw" id="-aadF20mCM3romtbws8Cp1g" uri="tasks/(dsi_8.4)elaboracin_de_especificaciones_del_modelo_fsico_de_datos.xmi"/>
+    <resourceDescriptors xmi:id="_zx1HkEQEEee7BNFtVTGNCw" id="-bECLjyBMCFuLMnCEhL6KXg" uri="tasks/(dsi_9.1)especificacin_del_entorno_de_migracin.xmi"/>
+    <resourceDescriptors xmi:id="_77jnwEQEEee7BNFtVTGNCw" id="-F6A8s-SX7VXp-p-YCy3bZQ" uri="tasks/(dsi_9.2)diseo_de_procedimientos_de_migracin_y_carga_inicial.xmi"/>
+    <resourceDescriptors xmi:id="__aDH4EQEEee7BNFtVTGNCw" id="-3MEun2T6vLJm3xaTXrIUkg" uri="tasks/(dsi_9.3)diseo_detallado_de_componentes_de_migracin_y_carga_inicial.xmi"/>
+    <resourceDescriptors xmi:id="_K4ZagEQFEee7BNFtVTGNCw" id="-RmQcYLHRx8zRkpOSe84W5A" uri="tasks/(dsi_9.4)revisin_de_la_planificacin_de_la_migracin.xmi"/>
+    <resourceDescriptors xmi:id="_RhTBIEQFEee7BNFtVTGNCw" id="-rWFCHFNEnC4X4ZwmpiPq7A" uri="tasks/(dsi_10.1)especificacin_del_entorno_de_pruebas.xmi"/>
+    <resourceDescriptors xmi:id="_WVgXAEQFEee7BNFtVTGNCw" id="-QN05wWc8DJu2-MHSkzibOQ" uri="tasks/(dsi_10.2)especificacin_tcnica_de_niveles_de_prueba.xmi"/>
+    <resourceDescriptors xmi:id="_ZEGrQEQFEee7BNFtVTGNCw" id="-erchINZhIlsy3QvpM_vUPA" uri="tasks/(dsi_10.3)revisin_de_la_planificacin_de_pruebas.xmi"/>
+    <resourceDescriptors xmi:id="_gr_psEQFEee7BNFtVTGNCw" id="-d5G_OuaePAtVaZZGRypKvg" uri="tasks/(dsi_11.1)especificacin_de_requisitos_de_documentacin_de_usuario.xmi"/>
+    <resourceDescriptors xmi:id="_pI4WcEQFEee7BNFtVTGNCw" id="-xfdz6lC8Q9sKxCbyTRuwcQ" uri="tasks/(dsi_11.2)especificacin_de_requisitos_de_implantacin.xmi"/>
+    <resourceDescriptors xmi:id="_tZugkEQFEee7BNFtVTGNCw" id="-Lj5AaQxOC-HUg38pLs64JA" uri="tasks/(dsi_12.1)presentacin_y_aprobacin_del_diseo_del_sistema_de_informacin.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_f-7WIDmCEeedyIH_DzGmJA" name="metrica_plug-in" guid="_f-7WIDmCEeedyIH_DzGmJA">
     <methodElementProperty xmi:id="_gOCJIDmCEeedyIH_DzGmJA" name="plugin_synFree" value="true"/>
@@ -514,6 +558,182 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_awHbwEPyEee_m-0TbRhTaw" name="diseadores_de_arquitectura" guid="_awHbwEPyEee_m-0TbRhTaw" presentationName="Diseñadores de Arquitectura">
             <methodElementProperty xmi:id="_bQ7p0EPyEee_m-0TbRhTaw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_-8YYoEP9Eee7BNFtVTGNCw" name="(dsi_1.1)definicin_de_niveles_de_arquitectura" guid="_-8YYoEP9Eee7BNFtVTGNCw" presentationName="(DSI 1.1) Definición de Niveles de Arquitectura" performedBy="_0QHGMEPcEee96dpm-B80Tw" additionallyPerformedBy="_E_m80EPyEee_m-0TbRhTaw _uvyU0DmiEeeKy-mHAzdEhw">
+            <methodElementProperty xmi:id="_CnZ44EP-Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-ydOnMV0hxY4Wsr1K4R9mnA" href="uma://-ydOnMV0hxY4Wsr1K4R9mnA#-ydOnMV0hxY4Wsr1K4R9mnA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_TSGUkEP-Eee7BNFtVTGNCw" name="(dsi_1.2)identificacin_de_requisitos_de_diseo_y_construccin" guid="_TSGUkEP-Eee7BNFtVTGNCw" presentationName="(DSI 1.2) Identificación de Requisitos de Diseño y Construcción" performedBy="_0QHGMEPcEee96dpm-B80Tw" additionallyPerformedBy="_uvyU0DmiEeeKy-mHAzdEhw">
+            <methodElementProperty xmi:id="_ZIBmIEP-Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-hvoI54NlW62BWx-TrbUlPg" href="uma://-hvoI54NlW62BWx-TrbUlPg#-hvoI54NlW62BWx-TrbUlPg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_c5RqMEP-Eee7BNFtVTGNCw" name="(dsi_1.3)especificacin_de_excepciones" guid="_c5RqMEP-Eee7BNFtVTGNCw" presentationName="(DSI 1.3) Especificación de Excepciones" performedBy="_0QHGMEPcEee96dpm-B80Tw" additionallyPerformedBy="_uvyU0DmiEeeKy-mHAzdEhw">
+            <methodElementProperty xmi:id="_fj9u0EP-Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-U4nOhiBoXI3lQMm6RKajrw" href="uma://-U4nOhiBoXI3lQMm6RKajrw#-U4nOhiBoXI3lQMm6RKajrw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_iQ09sEP-Eee7BNFtVTGNCw" name="(dsi_1.4)especificacin_de_estndares_y_normas_de_diseo_y_construccin" guid="_iQ09sEP-Eee7BNFtVTGNCw" presentationName="(DSI 1.4) Especificación de Estándares y Normas de Diseño y Construcción" performedBy="_0QHGMEPcEee96dpm-B80Tw" additionallyPerformedBy="_uvyU0DmiEeeKy-mHAzdEhw">
+            <methodElementProperty xmi:id="_k-GcQEP-Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-ALuPksJodYt_IcTv2_es2Q" href="uma://-ALuPksJodYt_IcTv2_es2Q#-ALuPksJodYt_IcTv2_es2Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_mVhiMEP-Eee7BNFtVTGNCw" name="(dsi_1.5)identificacin_de_subsistemas_de_diseo" guid="_mVhiMEP-Eee7BNFtVTGNCw" presentationName="(DSI 1.5) Identificación de Subsistemas de Diseño" performedBy="_0QHGMEPcEee96dpm-B80Tw" additionallyPerformedBy="_E_m80EPyEee_m-0TbRhTaw _uvyU0DmiEeeKy-mHAzdEhw">
+            <methodElementProperty xmi:id="_oXuDcEP-Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-qpRxEXZhR3rVxTZaeyyxBw" href="uma://-qpRxEXZhR3rVxTZaeyyxBw#-qpRxEXZhR3rVxTZaeyyxBw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_pu_YYEP-Eee7BNFtVTGNCw" name="(dsi_1.6)especificacin_del_entorno_tecnolgico" guid="_pu_YYEP-Eee7BNFtVTGNCw" presentationName="(DSI 1.6) Especificación del Entorno Tecnológico" performedBy="_0QHGMEPcEee96dpm-B80Tw" additionallyPerformedBy="_uvyU0DmiEeeKy-mHAzdEhw">
+            <methodElementProperty xmi:id="_u0lZMEP-Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-jTuTrl2utwlO4zDUg0bgKg" href="uma://-jTuTrl2utwlO4zDUg0bgKg#-jTuTrl2utwlO4zDUg0bgKg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_v6vI8EP-Eee7BNFtVTGNCw" name="(dsi_1.7)especificacin_de_requisitos_de_operacin_y_seguridad" guid="_v6vI8EP-Eee7BNFtVTGNCw" presentationName="(DSI 1.7) Especificación de Requisitos de Operación y Seguridad" performedBy="_E_m80EPyEee_m-0TbRhTaw" additionallyPerformedBy="_0QHGMEPcEee96dpm-B80Tw _uvyU0DmiEeeKy-mHAzdEhw">
+            <methodElementProperty xmi:id="_xz64IEP-Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-NxGwYBY9fwj8Be3xP2N9KA" href="uma://-NxGwYBY9fwj8Be3xP2N9KA#-NxGwYBY9fwj8Be3xP2N9KA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_zmgQEEP-Eee7BNFtVTGNCw" name="(dsi_2.1)diseo_de_subsistemas_de_soporte" guid="_zmgQEEP-Eee7BNFtVTGNCw" presentationName="(DSI 2.1) Diseño de Subsistemas de Soporte" performedBy="_0QHGMEPcEee96dpm-B80Tw">
+            <methodElementProperty xmi:id="_0_4d0EP-Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-3u-2sWpiKgAo5FkndIeS8w" href="uma://-3u-2sWpiKgAo5FkndIeS8w#-3u-2sWpiKgAo5FkndIeS8w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_2kzNMEP-Eee7BNFtVTGNCw" name="(dsi_2.2)identificacin_de_mecanismos_genricos_de_diseo" guid="_2kzNMEP-Eee7BNFtVTGNCw" presentationName="(DSI 2.2) Identificación de Mecanismos Genéricos de Diseño" performedBy="_awHbwEPyEee_m-0TbRhTaw">
+            <methodElementProperty xmi:id="_36z94EP-Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-Pm4lT4eRdAiRkvaGiveDAA" href="uma://-Pm4lT4eRdAiRkvaGiveDAA#-Pm4lT4eRdAiRkvaGiveDAA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_5dvwQEP-Eee7BNFtVTGNCw" name="(dsi_3.1)identificacin_de_clases_asociadas_a_un_caso_de_uso" guid="_5dvwQEP-Eee7BNFtVTGNCw" presentationName="(DSI 3.1) Identificación de Clases Asociadas a un Caso de Uso" performedBy="_LTsxEEPyEee_m-0TbRhTaw">
+            <methodElementProperty xmi:id="_6nFW4EP-Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-zT_raeF4EkKFHGeXRyjSCQ" href="uma://-zT_raeF4EkKFHGeXRyjSCQ#-zT_raeF4EkKFHGeXRyjSCQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_8KHP4EP-Eee7BNFtVTGNCw" name="(dsi_3.2)diseo_de_la_realizacin_de_los_casos_de_uso" guid="_8KHP4EP-Eee7BNFtVTGNCw" presentationName="(DSI 3.2) Diseño de la Realización de los Casos de Uso" performedBy="_LTsxEEPyEee_m-0TbRhTaw">
+            <methodElementProperty xmi:id="_9WpUcEP-Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-i-3Bdpg6qnBU0BibeDt6oQ" href="uma://-i-3Bdpg6qnBU0BibeDt6oQ#-i-3Bdpg6qnBU0BibeDt6oQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="__YsEsEP-Eee7BNFtVTGNCw" name="(dsi_3.3)revisin_de_la_interfaz_de_usuario" guid="__YsEsEP-Eee7BNFtVTGNCw" presentationName="(DSI 3.3) Revisión de la Interfaz de Usuario" performedBy="_LTsxEEPyEee_m-0TbRhTaw" additionallyPerformedBy="_-0RsIDmiEeeKy-mHAzdEhw">
+            <methodElementProperty xmi:id="_AyKZEEP_Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-cyf9mBI6zT_tLofq7U6Vjw" href="uma://-cyf9mBI6zT_tLofq7U6Vjw#-cyf9mBI6zT_tLofq7U6Vjw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_CVDIIEP_Eee7BNFtVTGNCw" name="(dsi_3.4)revisin_de_subsistemas_de_diseo_e_interfaces" guid="_CVDIIEP_Eee7BNFtVTGNCw" presentationName="(DSI 3.4) Revisión de Subsistemas de Diseño e Interfaces" performedBy="_LTsxEEPyEee_m-0TbRhTaw" additionallyPerformedBy="_0QHGMEPcEee96dpm-B80Tw">
+            <methodElementProperty xmi:id="_EEwLMEP_Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-kWVY2E-EMkslPlLjd0lh5g" href="uma://-kWVY2E-EMkslPlLjd0lh5g#-kWVY2E-EMkslPlLjd0lh5g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Fgko8EP_Eee7BNFtVTGNCw" name="(dsi_4.1)identificacin_de_clases_adicionales" guid="_Fgko8EP_Eee7BNFtVTGNCw" presentationName="(DSI 4.1) Identificación de Clases Adicionales" performedBy="_LTsxEEPyEee_m-0TbRhTaw">
+            <methodElementProperty xmi:id="_G2i9YEP_Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-q0RzyZLpN9lNvMYTnUDV6Q" href="uma://-q0RzyZLpN9lNvMYTnUDV6Q#-q0RzyZLpN9lNvMYTnUDV6Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_IIg7kEP_Eee7BNFtVTGNCw" name="(dsi_4.2)diseo_de_asociaciones_y_agregaciones" guid="_IIg7kEP_Eee7BNFtVTGNCw" presentationName="(DSI 4.2) Diseño de Asociaciones y Agregaciones" performedBy="_LTsxEEPyEee_m-0TbRhTaw">
+            <methodElementProperty xmi:id="_Jd-SoEP_Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-lEGep7-6joqPchKH7IHwGA" href="uma://-lEGep7-6joqPchKH7IHwGA#-lEGep7-6joqPchKH7IHwGA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_LGVXkEP_Eee7BNFtVTGNCw" name="(dsi_4.3)identificacin_de_atributos_de_las_clases" guid="_LGVXkEP_Eee7BNFtVTGNCw" presentationName="(DSI 4.3) Identificación de Atributos de las Clases" performedBy="_LTsxEEPyEee_m-0TbRhTaw">
+            <methodElementProperty xmi:id="_MRBpEEP_Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-eSwbop-GajWO1km3qdQsGA" href="uma://-eSwbop-GajWO1km3qdQsGA#-eSwbop-GajWO1km3qdQsGA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_NbMWIEP_Eee7BNFtVTGNCw" name="(dsi_4.4)identificacin_de_operaciones_de_las_clases" guid="_NbMWIEP_Eee7BNFtVTGNCw" presentationName="(DSI 4.4) Identificación de Operaciones de las Clases" performedBy="_LTsxEEPyEee_m-0TbRhTaw">
+            <methodElementProperty xmi:id="_OrDbgEP_Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-rBJjaNXpUCcYertbdRRDXQ" href="uma://-rBJjaNXpUCcYertbdRRDXQ#-rBJjaNXpUCcYertbdRRDXQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_P3rmsEP_Eee7BNFtVTGNCw" name="(dsi_4.5)diseo_de_la_jerarqua" guid="_P3rmsEP_Eee7BNFtVTGNCw" presentationName="(DSI 4.5) Diseño de la Jerarquía" performedBy="_LTsxEEPyEee_m-0TbRhTaw">
+            <methodElementProperty xmi:id="_ROAgcEP_Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-J-QhEgEAf4s6DJFGggh06g" href="uma://-J-QhEgEAf4s6DJFGggh06g#-J-QhEgEAf4s6DJFGggh06g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_SauyQEP_Eee7BNFtVTGNCw" name="(dsi_4.6)descripcin_de_mtodos_de_las_operaciones" guid="_SauyQEP_Eee7BNFtVTGNCw" presentationName="(DSI 4.6) Descripción de Métodos de las Operaciones" performedBy="_LTsxEEPyEee_m-0TbRhTaw">
+            <methodElementProperty xmi:id="_TwN-gEP_Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-xPP4kAIc1VajXJId0thqow" href="uma://-xPP4kAIc1VajXJId0thqow#-xPP4kAIc1VajXJId0thqow"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_VcJU0EP_Eee7BNFtVTGNCw" name="(dsi_4.7)especificacin_de_necesidades_de_migracin_y_carga_inicial_de_datos" guid="_VcJU0EP_Eee7BNFtVTGNCw" presentationName="(DSI 4.7) Especificación de Necesidades de Migración y Carga Inicial de Datos" performedBy="_vZGDcDmVEeeKy-mHAzdEhw" additionallyPerformedBy="_-0RsIDmiEeeKy-mHAzdEhw">
+            <methodElementProperty xmi:id="_XBPqYEP_Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-7iSShn3lmSwBWykNCNJVPQ" href="uma://-7iSShn3lmSwBWykNCNJVPQ#-7iSShn3lmSwBWykNCNJVPQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Yq_PYEP_Eee7BNFtVTGNCw" name="(dsi_5.1)diseo_de_mdulos_del_sistema" guid="_Yq_PYEP_Eee7BNFtVTGNCw" presentationName="(DSI 5.1) Diseño de Módulos del Sistema" performedBy="_0QHGMEPcEee96dpm-B80Tw" additionallyPerformedBy="_LTsxEEPyEee_m-0TbRhTaw">
+            <methodElementProperty xmi:id="_ZxOesEP_Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-aU63_xu6x-5DuCe4DtkWyg" href="uma://-aU63_xu6x-5DuCe4DtkWyg#-aU63_xu6x-5DuCe4DtkWyg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_a9NJoEP_Eee7BNFtVTGNCw" name="(dsi_5.2)diseo_de_comunicaciones_entre_mdulos" guid="_a9NJoEP_Eee7BNFtVTGNCw" presentationName="(DSI 5.2) Diseño de Comunicaciones entre Módulos" performedBy="_awHbwEPyEee_m-0TbRhTaw" additionallyPerformedBy="_E_m80EPyEee_m-0TbRhTaw _LTsxEEPyEee_m-0TbRhTaw">
+            <methodElementProperty xmi:id="_cIUR4EP_Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-LJ8fqH1oQUE43q2r3Kdl0Q" href="uma://-LJ8fqH1oQUE43q2r3Kdl0Q#-LJ8fqH1oQUE43q2r3Kdl0Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_dhzNUEP_Eee7BNFtVTGNCw" name="(dsi_5.3)revisin_de_la_interfaz_de_usuario" guid="_dhzNUEP_Eee7BNFtVTGNCw" presentationName="(DSI 5.3) Revisión de la Interfaz de Usuario" performedBy="_LTsxEEPyEee_m-0TbRhTaw" additionallyPerformedBy="_-0RsIDmiEeeKy-mHAzdEhw">
+            <methodElementProperty xmi:id="_esfe0EP_Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-In5E18jxXvLHsd_68faZEg" href="uma://-In5E18jxXvLHsd_68faZEg#-In5E18jxXvLHsd_68faZEg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_f71m0EP_Eee7BNFtVTGNCw" name="(dsi_6.1)diseo_del_modelo_fsico_de_datos" guid="_f71m0EP_Eee7BNFtVTGNCw" presentationName="(DSI 6.1) Diseño del Modelo Físico de Datos" performedBy="_0QHGMEPcEee96dpm-B80Tw" additionallyPerformedBy="_LTsxEEPyEee_m-0TbRhTaw _QODLMEPyEee_m-0TbRhTaw">
+            <methodElementProperty xmi:id="_hFhLsEP_Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-GIMjdT644vPTKDgcsQJg2g" href="uma://-GIMjdT644vPTKDgcsQJg2g#-GIMjdT644vPTKDgcsQJg2g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_i7wUkEP_Eee7BNFtVTGNCw" name="(dsi_6.2)especificacin_de_los_caminos_de_acceso_a_los_datos" guid="_i7wUkEP_Eee7BNFtVTGNCw" presentationName="(DSI 6.2) Especificación de los Caminos de Acceso a los Datos" performedBy="_LTsxEEPyEee_m-0TbRhTaw">
+            <methodElementProperty xmi:id="_kJy1AEP_Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-MudKHZe7dJlGiEzovEEUNQ" href="uma://-MudKHZe7dJlGiEzovEEUNQ#-MudKHZe7dJlGiEzovEEUNQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_lVi2cEP_Eee7BNFtVTGNCw" name="(dsi_6.3)optimizacin_del_modelo_fsico_de_datos" guid="_lVi2cEP_Eee7BNFtVTGNCw" presentationName="(DSI 6.3) Optimización del Modelo Físico de Datos" performedBy="_0QHGMEPcEee96dpm-B80Tw" additionallyPerformedBy="_QODLMEPyEee_m-0TbRhTaw _E_m80EPyEee_m-0TbRhTaw _LTsxEEPyEee_m-0TbRhTaw">
+            <methodElementProperty xmi:id="_mxtScEP_Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-1ZLExS_9IDyAo53UiZrbcg" href="uma://-1ZLExS_9IDyAo53UiZrbcg#-1ZLExS_9IDyAo53UiZrbcg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_oGTt4EP_Eee7BNFtVTGNCw" name="(dsi_6.4)especificacin_de_la_distribucin_de_datos" guid="_oGTt4EP_Eee7BNFtVTGNCw" presentationName="(DSI 6.4) Especificación de la Distribución de Datos" performedBy="_0QHGMEPcEee96dpm-B80Tw" additionallyPerformedBy="_uvyU0DmiEeeKy-mHAzdEhw">
+            <methodElementProperty xmi:id="_pQkhkEP_Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-aHU5NI8ptG6fsWaTuujHtA" href="uma://-aHU5NI8ptG6fsWaTuujHtA#-aHU5NI8ptG6fsWaTuujHtA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_qXKWMEP_Eee7BNFtVTGNCw" name="(dsi_7.1)verificacin_de_las_especificaciones_de_diseo" guid="_qXKWMEP_Eee7BNFtVTGNCw" presentationName="(DSI 7.1) Verificación de las Especificaciones de Diseño" performedBy="_0QHGMEPcEee96dpm-B80Tw" additionallyPerformedBy="_LTsxEEPyEee_m-0TbRhTaw">
+            <methodElementProperty xmi:id="_r__VMEP_Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-K04XkCIltdYZRylKYc4ZFg" href="uma://-K04XkCIltdYZRylKYc4ZFg#-K04XkCIltdYZRylKYc4ZFg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_tfjqgEP_Eee7BNFtVTGNCw" name="(dsi_7.2)anlisis_de_consistencia_de_las_especificaciones_de_diseo" guid="_tfjqgEP_Eee7BNFtVTGNCw" presentationName="(DSI 7.2) Análisis de Consistencia de las Especificaciones de Diseño" performedBy="_0QHGMEPcEee96dpm-B80Tw" additionallyPerformedBy="_LTsxEEPyEee_m-0TbRhTaw">
+            <methodElementProperty xmi:id="_uqnvcEP_Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-G7LU_PHnxvMc3ZsxwLGR8Q" href="uma://-G7LU_PHnxvMc3ZsxwLGR8Q#-G7LU_PHnxvMc3ZsxwLGR8Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_v2tIEEP_Eee7BNFtVTGNCw" name="(dsi_7.3)aceptacin_de_la_arquitectura_del_sistema" guid="_v2tIEEP_Eee7BNFtVTGNCw" presentationName="(DSI 7.3) Aceptación de la Arquitectura del Sistema" performedBy="_r-LbwDmVEeeKy-mHAzdEhw" additionallyPerformedBy="_SYPx4EPyEee_m-0TbRhTaw _Ui32YEPyEee_m-0TbRhTaw">
+            <methodElementProperty xmi:id="_xGWyEEP_Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-pfoQpQt4nks7HTY5ii2O_g" href="uma://-pfoQpQt4nks7HTY5ii2O_g#-pfoQpQt4nks7HTY5ii2O_g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_yX2PIEP_Eee7BNFtVTGNCw" name="(dsi_8.1)especificacin_del_entorno_de_construccin" guid="_yX2PIEP_Eee7BNFtVTGNCw" presentationName="(DSI 8.1) Especificación del Entorno de Construcción" performedBy="_awHbwEPyEee_m-0TbRhTaw" additionallyPerformedBy="_E_m80EPyEee_m-0TbRhTaw _XMT90EPyEee_m-0TbRhTaw _uvyU0DmiEeeKy-mHAzdEhw _LTsxEEPyEee_m-0TbRhTaw">
+            <methodElementProperty xmi:id="_zmPU4EP_Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-I_5iMHXznUgDZcUZrkVJ4g" href="uma://-I_5iMHXznUgDZcUZrkVJ4g#-I_5iMHXznUgDZcUZrkVJ4g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_1WETwEP_Eee7BNFtVTGNCw" name="(dsi_8.2)definicin_de_componentes_y_subsistemas_de_construccin" guid="_1WETwEP_Eee7BNFtVTGNCw" presentationName="(DSI 8.2) Definición de Componentes y Subsistemas de Construcción" performedBy="_0QHGMEPcEee96dpm-B80Tw" additionallyPerformedBy="_LTsxEEPyEee_m-0TbRhTaw">
+            <methodElementProperty xmi:id="_2kEX8EP_Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-PCzbY7Qx_bn_3jf54SXRQw" href="uma://-PCzbY7Qx_bn_3jf54SXRQw#-PCzbY7Qx_bn_3jf54SXRQw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_32HOoEP_Eee7BNFtVTGNCw" name="(dsi_8.3)elaboracin_de_especificaciones_de_construccin" guid="_32HOoEP_Eee7BNFtVTGNCw" presentationName="(DSI 8.3) Elaboración de Especificaciones de Construcción" performedBy="_LTsxEEPyEee_m-0TbRhTaw">
+            <methodElementProperty xmi:id="_5BLTkEP_Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-JLSjE54Gbk6hiSXRT5yHRg" href="uma://-JLSjE54Gbk6hiSXRT5yHRg#-JLSjE54Gbk6hiSXRT5yHRg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_6uIkoEP_Eee7BNFtVTGNCw" name="(dsi_8.4)elaboracin_de_especificaciones_del_modelo_fsico_de_datos" guid="_6uIkoEP_Eee7BNFtVTGNCw" presentationName="(DSI 8.4) Elaboración de Especificaciones del Modelo Físico de Datos" performedBy="_LTsxEEPyEee_m-0TbRhTaw" additionallyPerformedBy="_QODLMEPyEee_m-0TbRhTaw">
+            <methodElementProperty xmi:id="_7_L80EP_Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-aadF20mCM3romtbws8Cp1g" href="uma://-aadF20mCM3romtbws8Cp1g#-aadF20mCM3romtbws8Cp1g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_9QJOYEP_Eee7BNFtVTGNCw" name="(dsi_9.1)especificacin_del_entorno_de_migracin" guid="_9QJOYEP_Eee7BNFtVTGNCw" presentationName="(DSI 9.1) Especificación del Entorno de Migración" performedBy="_0QHGMEPcEee96dpm-B80Tw" additionallyPerformedBy="_uvyU0DmiEeeKy-mHAzdEhw">
+            <methodElementProperty xmi:id="_-lHdQEP_Eee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-bECLjyBMCFuLMnCEhL6KXg" href="uma://-bECLjyBMCFuLMnCEhL6KXg#-bECLjyBMCFuLMnCEhL6KXg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="__5XTYEP_Eee7BNFtVTGNCw" name="(dsi_9.2)diseo_de_procedimientos_de_migracin_y_carga_inicial" guid="__5XTYEP_Eee7BNFtVTGNCw" presentationName="(DSI 9.2) Diseño de Procedimientos de Migración y Carga Inicial" performedBy="_0QHGMEPcEee96dpm-B80Tw" additionallyPerformedBy="_E_m80EPyEee_m-0TbRhTaw _LTsxEEPyEee_m-0TbRhTaw">
+            <methodElementProperty xmi:id="_BUploEQAEee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-F6A8s-SX7VXp-p-YCy3bZQ" href="uma://-F6A8s-SX7VXp-p-YCy3bZQ#-F6A8s-SX7VXp-p-YCy3bZQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_DC_90EQAEee7BNFtVTGNCw" name="(dsi_9.3)diseo_detallado_de_componentes_de_migracin_y_carga_inicial" guid="_DC_90EQAEee7BNFtVTGNCw" presentationName="(DSI 9.3) Diseño Detallado de Componentes de Migración y Carga Inicial" performedBy="_r-LbwDmVEeeKy-mHAzdEhw">
+            <methodElementProperty xmi:id="_ERlQ0EQAEee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-3MEun2T6vLJm3xaTXrIUkg" href="uma://-3MEun2T6vLJm3xaTXrIUkg#-3MEun2T6vLJm3xaTXrIUkg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Fma80EQAEee7BNFtVTGNCw" name="(dsi_9.4)revisin_de_la_planificacin_de_la_migracin" guid="_Fma80EQAEee7BNFtVTGNCw" presentationName="(DSI 9.4) Revisión de la Planificación de la Migración" performedBy="_r-LbwDmVEeeKy-mHAzdEhw">
+            <methodElementProperty xmi:id="_G85nkEQAEee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-RmQcYLHRx8zRkpOSe84W5A" href="uma://-RmQcYLHRx8zRkpOSe84W5A#-RmQcYLHRx8zRkpOSe84W5A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ISm2QEQAEee7BNFtVTGNCw" name="(dsi_10.1)especificacin_del_entorno_de_pruebas" guid="_ISm2QEQAEee7BNFtVTGNCw" presentationName="(DSI 10.1) Especificación del Entorno de Pruebas" performedBy="_LTsxEEPyEee_m-0TbRhTaw" additionallyPerformedBy="_awHbwEPyEee_m-0TbRhTaw _E_m80EPyEee_m-0TbRhTaw _uvyU0DmiEeeKy-mHAzdEhw">
+            <methodElementProperty xmi:id="_Jh4s0EQAEee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-rWFCHFNEnC4X4ZwmpiPq7A" href="uma://-rWFCHFNEnC4X4ZwmpiPq7A#-rWFCHFNEnC4X4ZwmpiPq7A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_LRpaQEQAEee7BNFtVTGNCw" name="(dsi_10.2)especificacin_tcnica_de_niveles_de_prueba" guid="_LRpaQEQAEee7BNFtVTGNCw" presentationName="(DSI 10.2) Especificación Técnica de Niveles de Prueba" performedBy="_r-LbwDmVEeeKy-mHAzdEhw" additionallyPerformedBy="_vZGDcDmVEeeKy-mHAzdEhw _-0RsIDmiEeeKy-mHAzdEhw">
+            <methodElementProperty xmi:id="_MeQ-YEQAEee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-QN05wWc8DJu2-MHSkzibOQ" href="uma://-QN05wWc8DJu2-MHSkzibOQ#-QN05wWc8DJu2-MHSkzibOQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_N_LXgEQAEee7BNFtVTGNCw" name="(dsi_10.3)revisin_de_la_planificacin_de_pruebas" guid="_N_LXgEQAEee7BNFtVTGNCw" presentationName="(DSI 10.3) Revisión de la Planificación de Pruebas" performedBy="_r-LbwDmVEeeKy-mHAzdEhw">
+            <methodElementProperty xmi:id="_PQX5oEQAEee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-erchINZhIlsy3QvpM_vUPA" href="uma://-erchINZhIlsy3QvpM_vUPA#-erchINZhIlsy3QvpM_vUPA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_QvlCkEQAEee7BNFtVTGNCw" name="(dsi_11.1)especificacin_de_requisitos_de_documentacin_de_usuario" guid="_QvlCkEQAEee7BNFtVTGNCw" presentationName="(DSI 11.1) Especificación de Requisitos de Documentación de Usuario" performedBy="_LTsxEEPyEee_m-0TbRhTaw" additionallyPerformedBy="_SYPx4EPyEee_m-0TbRhTaw _Ui32YEPyEee_m-0TbRhTaw _-0RsIDmiEeeKy-mHAzdEhw">
+            <methodElementProperty xmi:id="_R-JHcEQAEee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-d5G_OuaePAtVaZZGRypKvg" href="uma://-d5G_OuaePAtVaZZGRypKvg#-d5G_OuaePAtVaZZGRypKvg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_TKSKcEQAEee7BNFtVTGNCw" name="(dsi_11.2)especificacin_de_requisitos_de_implantacin" guid="_TKSKcEQAEee7BNFtVTGNCw" presentationName="(DSI 11.2) Especificación de Requisitos de Implantación" performedBy="_r-LbwDmVEeeKy-mHAzdEhw" additionallyPerformedBy="_f5YfID2xEeeoZ68lBwYatQ _uvyU0DmiEeeKy-mHAzdEhw">
+            <methodElementProperty xmi:id="_UO2l0EQAEee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-xfdz6lC8Q9sKxCbyTRuwcQ" href="uma://-xfdz6lC8Q9sKxCbyTRuwcQ#-xfdz6lC8Q9sKxCbyTRuwcQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_VlLfkEQAEee7BNFtVTGNCw" name="(dsi_12.1)presentacin_y_aprobacin_del_diseo_del_sistema_de_informacin" guid="_VlLfkEQAEee7BNFtVTGNCw" presentationName="(DSI 12.1) Presentación y Aprobación del Diseño del Sistema de Información" performedBy="_lS0XADmVEeeKy-mHAzdEhw" additionallyPerformedBy="_r-LbwDmVEeeKy-mHAzdEhw">
+            <methodElementProperty xmi:id="_Ws3gYEQAEee7BNFtVTGNCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-Lj5AaQxOC-HUg38pLs64JA" href="uma://-Lj5AaQxOC-HUg38pLs64JA#-Lj5AaQxOC-HUg38pLs64JA"/>
           </contentElements>
         </childPackages>
       </childPackages>
