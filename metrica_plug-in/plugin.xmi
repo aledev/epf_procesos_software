@@ -298,11 +298,11 @@
             <methodElementProperty xmi:id="__nDWcD6QEeeoZ68lBwYatQ" name="me_edited" value="true"/>
             <presentation xmi:id="-GcQyrcUcK-fkBIkZe-CgGg" href="uma://-GcQyrcUcK-fkBIkZe-CgGg#-GcQyrcUcK-fkBIkZe-CgGg"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_1JQscD6REeeoZ68lBwYatQ" name="(evs_6.3)aprobacion_de_la_solucion" guid="_1JQscD6REeeoZ68lBwYatQ" presentationName="(evs_6.3)Aprobación de la Solución" performedBy="_lS0XADmVEeeKy-mHAzdEhw" mandatoryInput="_Xv0ksDmYEeeKy-mHAzdEhw" output="_KOINYD6SEeeoZ68lBwYatQ _z2D0oD6QEeeoZ68lBwYatQ" additionallyPerformedBy="_r-LbwDmVEeeKy-mHAzdEhw" optionalInput="_94LZ0D6QEeeoZ68lBwYatQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_1JQscD6REeeoZ68lBwYatQ" name="(evs_6.3)aprobacion_de_la_solucion" guid="_1JQscD6REeeoZ68lBwYatQ" presentationName="(evs_6.3)Aprobación de la Solución" performedBy="_lS0XADmVEeeKy-mHAzdEhw" mandatoryInput="_z2D0oD6QEeeoZ68lBwYatQ" output="_KOINYD6SEeeoZ68lBwYatQ" additionallyPerformedBy="_r-LbwDmVEeeKy-mHAzdEhw" optionalInput="_94LZ0D6QEeeoZ68lBwYatQ">
             <methodElementProperty xmi:id="_870CwD6REeeoZ68lBwYatQ" name="me_edited" value="true"/>
             <presentation xmi:id="-Z_QAPtHAru3L6k_VhJY_qQ" href="uma://-Z_QAPtHAru3L6k_VhJY_qQ#-Z_QAPtHAru3L6k_VhJY_qQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_KOINYD6SEeeoZ68lBwYatQ" name="aprobacion_de_la_solucion" guid="_KOINYD6SEeeoZ68lBwYatQ" presentationName="Aprobación de la Solución">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_KOINYD6SEeeoZ68lBwYatQ" name="aprobacion_de_la_solucion(resultado_evs_6.3)" guid="_KOINYD6SEeeoZ68lBwYatQ" presentationName="Aprobación de la Solución(Resultado EVS 6.3)">
             <methodElementProperty xmi:id="_Oy6nMD6SEeeoZ68lBwYatQ" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_y16moEO8Eee96dpm-B80Tw" name="(asi_1.1)determinacion_del_alcance_del_sistema" guid="_y16moEO8Eee96dpm-B80Tw" presentationName="(asi_1.1)Determinación del alcance del sistema" performedBy="_r-LbwDmVEeeKy-mHAzdEhw" mandatoryInput="_94LZ0D6QEeeoZ68lBwYatQ" output="_pZD_wEO-Eee96dpm-B80Tw _oQagMEO_Eee96dpm-B80Tw _zfmVcEO_Eee96dpm-B80Tw _wKHAUEO_Eee96dpm-B80Tw" additionallyPerformedBy="_vZGDcDmVEeeKy-mHAzdEhw _f5YfID2xEeeoZ68lBwYatQ" optionalInput="_z2D0oD6QEeeoZ68lBwYatQ">

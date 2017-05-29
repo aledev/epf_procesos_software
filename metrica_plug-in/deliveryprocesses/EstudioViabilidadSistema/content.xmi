@@ -536,4 +536,63 @@ tanto desde el punto de vista tecnológico y organizativo como de operación, y 
 contrastados con los costes asociados. Se realiza también un análisis de los riesgos, decidiendo cómo enfocar el plan de&#xD;
 acción para minimizar los mismos y cuantificando los recursos y plazos precisos para planificar cada alternativa.</mainDescription>
   </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-RgHuclaiqJ5Ggew2OR7aRQ" name="(evs_5.1)estudio_de_la_inversion,_TROs8D6PEeeoZ68lBwYatQ" guid="-RgHuclaiqJ5Ggew2OR7aRQ">
+    <refinedDescription>Para cada alternativa de solución propuesta, se valora el impacto en la organización y se establece su viabilidad&#xD;
+económica. Para ello, se realiza un análisis coste/beneficio que determina los costes del sistema y los pondera con los&#xD;
+beneficios tangibles, cuantificables directamente, y con los beneficios intangibles, buscando el modo de cuantificarlos.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ihSuLc4k3HMFy69e8YK0xQ" name="valoracion_de_alternativas(resultado_evs_5.1),_TROs9z6PEeeoZ68lBwYatQ" guid="-ihSuLc4k3HMFy69e8YK0xQ">
+    <refinedDescription>&lt;p>&#xD;
+    -Impacto en la Organización de Alternativas.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    -Coste / beneficio de Alternativas.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ibENQYfdAcPfeqtElmQumQ" name="(evs_5.2)estudio_de_los_riesgos,_TvxqID6PEeeoZ68lBwYatQ" guid="-ibENQYfdAcPfeqtElmQumQ">
+    <refinedDescription>Para cada alternativa se seleccionan los factores de situación que habrá que considerar, relativos tanto a la incertidumbre&#xD;
+como a la complejidad del sistema. Se identifican y valoran los riesgos asociados y se determinan las medidas a tomar para&#xD;
+minimizarlos.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-AFYIRi1aKz0xYC59jwvTxg" name="(evs_5.3)planificacion_de_alternativas,_UOjQ0D6PEeeoZ68lBwYatQ" guid="-AFYIRi1aKz0xYC59jwvTxg">
+    <refinedDescription>&lt;p>&#xD;
+    En función del análisis de riesgos realizado en la tarea anterior, y para cada una de las alternativas existentes:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Se determina el enfoque más adecuado para llevar a buen fin la solución propuesta en cada alternativa.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Se realiza una planificación, teniendo en cuenta los puntos de sincronismo con otros proyectos en desarrollo o que&#xD;
+    esté previsto desarrollar, según se ha recogido en el catálogo de requisitos.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    De esta manera se garantiza el cumplimiento del plan de trabajo en los restantes procesos del ciclo de vida.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-1IDmMSOzhDPSQeav1nN6sQ" name="valoracion_de_alternativas(revisado_evs_5.2),_402nMUShEeedtqBcmL8xhQ" guid="-1IDmMSOzhDPSQeav1nN6sQ">
+    <refinedDescription>&lt;p>&#xD;
+    -Impacto en la Organización de Alternativas.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    -Coste / beneficio de Alternativas.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-9T4lb9-8SaH7_tasrHy1dg" name="catalogo_de_requisitos(actualizado_en_funcion_de_la_cobertura_de_la_solucion)(resultado_evs_6.2),_iaecsz6SEeeoZ68lBwYatQ" guid="-9T4lb9-8SaH7_tasrHy1dg">
+    <refinedDescription>Solución Propuesta: o Descripción de la Solución · Modelo de Descomposición en Subsistemas · Matriz Procesos / Localización&#xD;
+Geográfica · Matriz Datos / Localización Geográfica · Entorno Tecnológico y Comunicaciones · Estrategia de Implantación&#xD;
+Global del Sistema · Descripción de Procesos Manuales Si la alternativa incluye desarrollo: · Modelo Abstracto de Datos /&#xD;
+Modelo de Procesos · Modelo de Negocio / Modelo de Dominio Si la alternativa incluye un producto software estándar de&#xD;
+mercado: · Descripción del Producto · Evolución del Producto · Costes Ocasionados por Producto · Estándares del Producto ·&#xD;
+Descripción de Adaptación (si es necesaria) o Contexto del Sistema (con la Definición de las Interfaces en Función de la&#xD;
+Solución) o Impacto en la Organización de la Solución o Coste / Beneficio de la Solución o Valoración de Riesgos de la&#xD;
+Solución o Enfoque del Plan de Trabajo de la Solución o Planificación de la Solución</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-NOa_ZbBYk0LI_Kga4FCHGw" name="valoracion_de_alternativas(revisado_evs_5.2),_405qhEShEeedtqBcmL8xhQ" guid="-NOa_ZbBYk0LI_Kga4FCHGw">
+    <refinedDescription>&lt;p>&#xD;
+    -Impacto en la Organización de Alternativas.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    -Coste / beneficio de Alternativas.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
 </xmi:XMI>
